@@ -36,7 +36,7 @@ export default function ContactSection() {
             Get in Touch
           </h2>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            Ready to start a conversation about art? We'd love to hear from you.
+            Ready to start a conversation about art? We&apos;d love to hear from you.
           </p>
         </div>
 

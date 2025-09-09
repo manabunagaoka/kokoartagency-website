@@ -2,24 +2,42 @@
 
 import { useState } from 'react';
 import Image from 'next/image';
-import { X, ChevronLeft, ChevronRight, Play } from 'lucide-react';
-import { ArtworkImage, ArtworkVideo } from '@/types';
+import { X, ChevronLeft, ChevronRight, Play, Loader2 } from 'lucide-react';
+import { useArtistImages } from '@/hooks/useArtistImages';
 
 interface ArtworkGalleryProps {
-  images: ArtworkImage[];
-  videos?: ArtworkVideo[];
-  artistName: string;
+  artistSlug: string;
 }
 
-type MediaItem = (ArtworkImage & { type: 'image' }) | (ArtworkVideo & { type: 'video' });
+type MediaItem = {
+  id: string;
+  url: string;
+  title: string;
+  type: 'image' | 'video';
+  thumbnail?: string;
+  alt?: string;
+};
 
-export default function ArtworkGallery({ images, videos = [], artistName }: ArtworkGalleryProps) {
+export default function ArtworkGallery({ artistSlug }: ArtworkGalleryProps) {
   const [selectedIndex, setSelectedIndex] = useState<number | null>(null);
+  const { images, videos, loading, error } = useArtistImages(artistSlug);
   
   // Combine images and videos into a single array
   const mediaItems: MediaItem[] = [
-    ...images.map(img => ({ ...img, type: 'image' as const })),
-    ...videos.map(vid => ({ ...vid, type: 'video' as const }))
+    ...images.map((img, index) => ({ 
+      id: `image-${index}`,
+      url: img.url, 
+      title: img.title,
+      alt: img.alt,
+      type: 'image' as const 
+    })),
+    ...videos.map(vid => ({ 
+      id: vid.id,
+      url: vid.url, 
+      title: vid.title,
+      thumbnail: vid.thumbnail,
+      type: 'video' as const 
+    }))
   ];
 
   const openLightbox = (index: number) => {
@@ -40,23 +58,50 @@ export default function ArtworkGallery({ images, videos = [], artistName }: Artw
     }
   };
 
+  if (loading) {
+    return (
+      <div className="flex items-center justify-center py-12">
+        <Loader2 className="h-8 w-8 animate-spin text-gray-400" />
+        <span className="ml-2 text-gray-600">Loading artwork...</span>
+      </div>
+    );
+  }
+
+  if (error) {
+    return (
+      <div className="text-center py-12">
+        <p className="text-red-600 mb-2">Error loading artwork</p>
+        <p className="text-gray-500 text-sm">{error}</p>
+      </div>
+    );
+  }
+
+  if (mediaItems.length === 0) {
+    return (
+      <div className="text-center py-12">
+        <p className="text-gray-600">No artwork available for this artist yet.</p>
+      </div>
+    );
+  }
+
   return (
     <>
-      {/* Gallery Grid */}
-      <div className="masonry-grid">
+      {/* Gallery Grid - Masonry Layout */}
+      <div className="columns-1 md:columns-2 lg:columns-3 xl:columns-4 gap-6 space-y-6">
         {mediaItems.map((item, index) => (
           <div
             key={item.id}
-            className="masonry-item cursor-pointer group"
+            className="cursor-pointer group break-inside-avoid mb-6"
             onClick={() => openLightbox(index)}
           >
             <div className="relative bg-gray-100 rounded-lg overflow-hidden">
               <Image
-                src={item.type === 'image' ? item.url : item.thumbnail}
-                alt={item.type === 'image' ? item.alt : `${item.title} video thumbnail`}
-                width={item.type === 'image' ? item.width : 400}
-                height={item.type === 'image' ? item.height : 300}
+                src={item.type === 'image' ? item.url : (item.thumbnail || item.url)}
+                alt={item.alt || `${item.title}`}
+                width={600}
+                height={400}
                 className="w-full h-auto group-hover:scale-105 transition-transform duration-300"
+                sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, (max-width: 1280px) 33vw, 25vw"
               />
               {item.type === 'video' && (
                 <div className="absolute inset-0 flex items-center justify-center bg-black/20 group-hover:bg-black/30 transition-colors">
@@ -65,16 +110,10 @@ export default function ArtworkGallery({ images, videos = [], artistName }: Artw
                   </div>
                 </div>
               )}
-              <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/60 to-transparent p-4 opacity-0 group-hover:opacity-100 transition-opacity">
-                <h3 className="text-white text-sm font-medium">
-                  {item.type === 'image' ? item.title : item.title}
-                </h3>
-              </div>
             </div>
           </div>
         ))}
       </div>
-
       {/* Lightbox */}
       {selectedIndex !== null && (
         <div className="fixed inset-0 z-50 bg-black/90 flex items-center justify-center p-4">
@@ -101,19 +140,21 @@ export default function ArtworkGallery({ images, videos = [], artistName }: Artw
 
           <div className="max-w-4xl max-h-full flex items-center justify-center">
             {mediaItems[selectedIndex].type === 'image' ? (
-              <Image
-                src={mediaItems[selectedIndex].url}
-                alt={(mediaItems[selectedIndex] as ArtworkImage).alt}
-                width={(mediaItems[selectedIndex] as ArtworkImage).width}
-                height={(mediaItems[selectedIndex] as ArtworkImage).height}
-                className="max-w-full max-h-full object-contain"
-              />
+              <div className="relative max-w-full max-h-full">
+                <Image
+                  src={mediaItems[selectedIndex].url}
+                  alt={mediaItems[selectedIndex].alt || mediaItems[selectedIndex].title}
+                  width={800}
+                  height={600}
+                  className="max-w-full max-h-full object-contain"
+                />
+              </div>
             ) : (
               <video
                 src={mediaItems[selectedIndex].url}
                 controls
                 className="max-w-full max-h-full"
-                poster={(mediaItems[selectedIndex] as ArtworkVideo).thumbnail}
+                poster={mediaItems[selectedIndex].thumbnail}
               >
                 Your browser does not support the video tag.
               </video>
@@ -121,11 +162,6 @@ export default function ArtworkGallery({ images, videos = [], artistName }: Artw
           </div>
           
           <div className="absolute bottom-4 left-1/2 -translate-x-1/2 text-white text-center">
-            <h3 className="text-lg font-medium mb-1">
-              {mediaItems[selectedIndex].type === 'image' 
-                ? (mediaItems[selectedIndex] as ArtworkImage).title 
-                : (mediaItems[selectedIndex] as ArtworkVideo).title}
-            </h3>
             <p className="text-sm text-gray-300">
               {selectedIndex + 1} of {mediaItems.length}
             </p>

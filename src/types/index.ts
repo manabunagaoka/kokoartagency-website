@@ -25,6 +25,9 @@ export interface Artist {
   videos?: ArtworkVideo[];
   website?: string;
   instagram?: string;
+  facebook?: string;
+  pinterest?: string;
+  blogspot?: string;
   featured: boolean;
 }
 

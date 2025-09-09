@@ -2,99 +2,110 @@
 
 import { useState, useEffect } from 'react';
 import Image from 'next/image';
-import { ChevronLeft, ChevronRight } from 'lucide-react';
-import { featuredArtists } from '@/lib/data';
+import { Play, Loader2 } from 'lucide-react';
+import { useSlideData } from '@/hooks/useSlideData';
 
 export default function ArtworkSlider() {
   const [currentIndex, setCurrentIndex] = useState(0);
-  
-  // Collect all featured artworks
-  const featuredArtworks = featuredArtists.flatMap(artist => 
-    artist.images.slice(0, 2).map(image => ({ ...image, artistName: artist.name, artistSlug: artist.slug }))
-  );
-
-  const nextSlide = () => {
-    setCurrentIndex((prevIndex) => 
-      prevIndex === featuredArtworks.length - 1 ? 0 : prevIndex + 1
-    );
-  };
-
-  const prevSlide = () => {
-    setCurrentIndex((prevIndex) => 
-      prevIndex === 0 ? featuredArtworks.length - 1 : prevIndex - 1
-    );
-  };
+  const { slides, loading, error } = useSlideData();
 
   // Auto-advance slides
   useEffect(() => {
-    const timer = setInterval(nextSlide, 5000);
-    return () => clearInterval(timer);
-  }, []);
+    if (slides.length > 0) {
+      const timer = setInterval(() => {
+        setCurrentIndex((prevIndex) => 
+          prevIndex === slides.length - 1 ? 0 : prevIndex + 1
+        );
+      }, 6000);
+      return () => clearInterval(timer);
+    }
+  }, [slides.length]);
 
-  if (featuredArtworks.length === 0) return null;
+  if (loading) {
+    return (
+      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-8">
+        <div 
+          className="flex items-center justify-center bg-gray-50 rounded-lg h-80 md:h-[650px]"
+          style={{ 
+            aspectRatio: '2100 / 1350',
+            maxWidth: '100%'
+          }}
+        >
+          <Loader2 className="h-8 w-8 animate-spin text-gray-400" />
+          <span className="ml-2 text-gray-600">Loading slideshow...</span>
+        </div>
+      </section>
+    );
+  }
+
+  if (error) {
+    return (
+      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-8">
+        <div 
+          className="flex items-center justify-center bg-gray-50 rounded-lg h-80 md:h-[650px]"
+          style={{ 
+            aspectRatio: '2100 / 1350',
+            maxWidth: '100%'
+          }}
+        >
+          <p className="text-gray-600">Unable to load slideshow</p>
+        </div>
+      </section>
+    );
+  }
+
+  if (slides.length === 0) {
+    return null;
+  }
 
   return (
-    <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-      <div className="text-center mb-12">
-        <h2 className="text-3xl md:text-4xl font-light text-gray-900 mb-4">
-          Featured Works
-        </h2>
-        <p className="text-gray-600 max-w-2xl mx-auto">
-          A curated selection of exceptional pieces from our represented artists
-        </p>
-      </div>
-
-      <div className="relative">
-        <div className="relative h-96 md:h-[500px] overflow-hidden rounded-lg bg-gray-100">
-          {featuredArtworks.map((artwork, index) => (
+    <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-8">
+      <div className="flex justify-center">
+        {/* Main Slide Container - Responsive Height */}
+        <div 
+          className="relative overflow-hidden rounded-lg bg-gray-50 flex items-center justify-center w-full h-80 md:h-[650px]"
+          style={{ 
+            aspectRatio: '2100 / 1350',
+            maxWidth: '100%'
+          }}
+        >
+          {slides.map((slide, index) => (
             <div
-              key={artwork.id}
-              className={`absolute inset-0 transition-transform duration-500 ease-in-out ${
-                index === currentIndex ? 'translate-x-0' : 
-                index < currentIndex ? '-translate-x-full' : 'translate-x-full'
+              key={slide.id}
+              className={`absolute inset-0 transition-opacity duration-1000 ease-in-out flex items-center justify-center ${
+                index === currentIndex ? 'opacity-100' : 'opacity-0'
               }`}
             >
-              <Image
-                src={artwork.url}
-                alt={artwork.alt}
-                fill
-                className="object-cover"
-              />
-              <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/60 to-transparent p-6">
-                <h3 className="text-white text-lg font-medium">{artwork.title}</h3>
-                <p className="text-white/80 text-sm">by {artwork.artistName}</p>
+              {slide.type === 'image' ? (
+                <Image
+                  src={slide.url}
+                  alt={`${slide.artistName} artwork`}
+                  fill
+                  className="object-contain md:object-cover"
+                  priority={index === currentIndex}
+                />
+              ) : (
+                <div className="relative w-full h-full">
+                  <video
+                    src={slide.url}
+                    className="w-full h-full object-contain md:object-cover"
+                    autoPlay
+                    muted
+                    loop
+                    playsInline
+                  />
+                  <div className="absolute top-4 right-4 bg-black/50 text-white px-2 py-1 rounded text-sm flex items-center">
+                    <Play size={12} className="mr-1" />
+                    Video
+                  </div>
+                </div>
+              )}
+              
+              {/* Artist Name Overlay - Lower Left */}
+              <div className="absolute bottom-4 left-4 md:bottom-6 md:left-6 bg-black/40 backdrop-blur-sm text-white px-3 py-1.5 md:px-4 md:py-2 rounded">
+                <h3 className="text-base md:text-lg font-medium">{slide.artistName}</h3>
               </div>
             </div>
-          ))}
-        </div>
-
-        {/* Navigation Buttons */}
-        <button
-          onClick={prevSlide}
-          className="absolute left-4 top-1/2 -translate-y-1/2 bg-white/80 hover:bg-white text-gray-800 p-2 rounded-full shadow-lg transition-colors"
-          aria-label="Previous image"
-        >
-          <ChevronLeft size={24} />
-        </button>
-        <button
-          onClick={nextSlide}
-          className="absolute right-4 top-1/2 -translate-y-1/2 bg-white/80 hover:bg-white text-gray-800 p-2 rounded-full shadow-lg transition-colors"
-          aria-label="Next image"
-        >
-          <ChevronRight size={24} />
-        </button>
-
-        {/* Dots Indicator */}
-        <div className="flex justify-center mt-6 space-x-2">
-          {featuredArtworks.map((_, index) => (
-            <button
-              key={index}
-              onClick={() => setCurrentIndex(index)}
-              className={`w-2 h-2 rounded-full transition-colors ${
-                index === currentIndex ? 'bg-gray-800' : 'bg-gray-300'
-              }`}
-              aria-label={`Go to slide ${index + 1}`}
-            />
           ))}
         </div>
       </div>

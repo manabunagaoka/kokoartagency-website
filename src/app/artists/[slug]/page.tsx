@@ -1,17 +1,18 @@
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
-import { ArrowLeft, ExternalLink, Instagram } from 'lucide-react';
+import { ArrowLeft, ExternalLink, Instagram, Facebook } from 'lucide-react';
 import { getArtistBySlug } from '@/lib/artists';
 import ArtworkGallery from '@/components/artists/artwork-gallery';
 
 interface ArtistPageProps {
-  params: {
+  params: Promise<{
     slug: string;
-  };
+  }>;
 }
 
-export default function ArtistPage({ params }: ArtistPageProps) {
-  const artist = getArtistBySlug(params.slug);
+export default async function ArtistPage({ params }: ArtistPageProps) {
+  const { slug } = await params;
+  const artist = getArtistBySlug(slug);
 
   if (!artist) {
     notFound();
@@ -38,49 +39,90 @@ export default function ArtistPage({ params }: ArtistPageProps) {
           <h1 className="text-4xl md:text-5xl font-light text-gray-900 mb-4">
             {artist.name}
           </h1>
-          <p className="text-lg text-gray-600 max-w-3xl mx-auto mb-6 leading-relaxed">
-            {artist.bio}
-          </p>
-          
-          {/* Artist Links */}
-          {(artist.website || artist.instagram) && (
-            <div className="flex items-center justify-center space-x-6">
-              {artist.website && (
-                <a
-                  href={artist.website}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="inline-flex items-center text-gray-600 hover:text-gray-900 transition-colors"
-                >
-                  <ExternalLink size={18} className="mr-2" />
-                  Website
-                </a>
-              )}
-              {artist.instagram && (
-                <a
-                  href={`https://instagram.com/${artist.instagram.replace('@', '')}`}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="inline-flex items-center text-gray-600 hover:text-gray-900 transition-colors"
-                >
-                  <Instagram size={18} className="mr-2" />
-                  {artist.instagram}
-                </a>
-              )}
-            </div>
-          )}
         </div>
 
         {/* Artwork Gallery */}
         <div className="mb-12">
-          <h2 className="text-2xl font-light text-gray-900 mb-8 text-center">
-            Artwork ({artist.images.length + (artist.videos?.length || 0)} pieces)
-          </h2>
           <ArtworkGallery 
-            images={artist.images} 
-            videos={artist.videos}
-            artistName={artist.name}
+            artistSlug={slug}
           />
+        </div>
+
+        {/* Artist Bio and Links Section */}
+        <div className="max-w-4xl mx-auto">
+          {/* Bio */}
+          <div className="mb-8">
+            <div className="prose prose-gray max-w-none">
+              {artist.bio.split('\n\n').map((paragraph, index) => (
+                <p key={index} className="text-gray-700 leading-relaxed mb-4">
+                  {paragraph}
+                </p>
+              ))}
+            </div>
+          </div>
+          
+          {/* Artist Links */}
+          {(artist.website || artist.instagram || artist.facebook || artist.pinterest || artist.blogspot) && (
+            <div className="border-t border-gray-200 pt-8">
+              <div className="flex flex-wrap gap-4 justify-center">
+                {artist.website && (
+                  <a
+                    href={artist.website}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex items-center px-4 py-2 border border-gray-300 rounded-lg text-gray-700 hover:bg-gray-50 transition-colors"
+                  >
+                    <ExternalLink size={16} className="mr-2" />
+                    WEBSITE
+                  </a>
+                )}
+                {artist.instagram && (
+                  <a
+                    href={artist.instagram}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex items-center px-4 py-2 border border-gray-300 rounded-lg text-gray-700 hover:bg-gray-50 transition-colors"
+                  >
+                    <Instagram size={16} className="mr-2" />
+                    INSTAGRAM
+                  </a>
+                )}
+                {artist.facebook && (
+                  <a
+                    href={artist.facebook}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex items-center px-4 py-2 border border-gray-300 rounded-lg text-gray-700 hover:bg-gray-50 transition-colors"
+                  >
+                    <Facebook size={16} className="mr-2" />
+                    FACEBOOK
+                  </a>
+                )}
+                {artist.pinterest && (
+                  <a
+                    href={artist.pinterest}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex items-center px-4 py-2 border border-gray-300 rounded-lg text-gray-700 hover:bg-gray-50 transition-colors"
+                  >
+                    <ExternalLink size={16} className="mr-2" />
+                    PINTEREST
+                  </a>
+                )}
+                {artist.blogspot && (
+                  <a
+                    href={artist.blogspot}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex items-center px-4 py-2 border border-gray-300 rounded-lg text-gray-700 hover:bg-gray-50 transition-colors"
+                  >
+                    <ExternalLink size={16} className="mr-2" />
+                    BLOGSPOT
+                  </a>
+                )}
+              </div>
+            </div>
+          )}
         </div>
       </div>
     </div>

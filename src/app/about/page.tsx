@@ -1,112 +1,52 @@
-import ContactSection from '@/components/about/contact-section';
-
 export default function AboutPage() {
   return (
     <div className="min-h-screen bg-white">
-      {/* Hero Section */}
-      <section className="bg-gray-50">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 md:py-24">
-          <div className="text-center">
-            <h1 className="text-4xl md:text-5xl font-light text-gray-900 mb-6">
-              About Koko Art Agency
-            </h1>
-            <p className="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
-              We are dedicated to representing exceptional contemporary artists and connecting them with collectors, galleries, and art enthusiasts around the world.
-            </p>
-          </div>
-        </div>
-      </section>
-
-      {/* Mission Section */}
+      {/* About Section */}
       <section className="py-16 md:py-24">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-            <div>
-              <h2 className="text-3xl md:text-4xl font-light text-gray-900 mb-6">
-                Our Mission
-              </h2>
-              <div className="space-y-4 text-gray-600 leading-relaxed">
-                <p>
-                  At Koko Art Agency, we believe in the transformative power of contemporary art. Our mission is to bridge the gap between exceptional artists and the wider world, creating meaningful connections that enrich both the art community and society at large.
-                </p>
-                <p>
-                  We are committed to supporting artists at every stage of their career, providing them with the resources, exposure, and opportunities they need to thrive in today's dynamic art market.
-                </p>
-                <p>
-                  Through carefully curated exhibitions, strategic partnerships, and innovative digital platforms, we showcase diverse voices and perspectives that challenge, inspire, and move audiences.
-                </p>
+        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="space-y-6 text-gray-700 leading-relaxed">
+            <p className="text-lg">
+              KOKO Art Agency is a boutique illustration and design agency based in New York City. Since our founding in 1999 under the name CWC International, we have served as a creative content partner connecting exceptional art and design talent with our international clients. We oversee our artists in their production of unique and impactful handwrought assets for use across communication mediums, including:
+            </p>
+            
+            <ul className="space-y-2 ml-4">
+              <li>• Cross-platform Social Media Campaigns</li>
+              <li>• Packaging & Surface Design + In-store Displays</li>
+              <li>• Editorial & Publishing</li>
+              <li>• Online Ads, Website Design & Video/Animation</li>
+              <li>• Live Painting/Murals at Events</li>
+            </ul>
+            
+            <div className="pt-8">
+              <h2 className="text-2xl font-light text-gray-900 mb-4">CLIENTS</h2>
+              
+              <div className="space-y-4">
+                <div>
+                  <h3 className="font-light text-gray-900 mb-2">BRANDS //</h3>
+                  <p className="text-gray-700">
+                    Target, Nike, Reebok, Mercedes-Benz, Veuve Clicquot, Tiffany & Co, Louis Vuitton, MAC Cosmetics, Urban Decay, Banana Republic, Levi&apos;s, OPI, Microsoft, Google, NBC, Nickelodeon, HGTV, TED Global, Ace Hotels, Harper Collins, Chronicle Books, Penguin Books, among others.
+                  </p>
+                </div>
+                
+                <div>
+                  <h3 className="font-light text-gray-900 mb-2">AGENCIES //</h3>
+                  <p className="text-gray-700">
+                    Ogilvy, McCann Worldgroup, BBDO, Mother London, adam&eveDDB, ustwo, Brand Union, Landor, 72 and Sunny, TAXI, Saatchi Wellness, among others.
+                  </p>
+                </div>
               </div>
             </div>
-            <div className="lg:pl-8">
-              <h3 className="text-2xl font-light text-gray-900 mb-6">What We Offer</h3>
-              <ul className="space-y-3 text-gray-600">
-                <li className="flex items-start">
-                  <span className="text-gray-900 font-medium mr-2">•</span>
-                  Artist representation and career development
-                </li>
-                <li className="flex items-start">
-                  <span className="text-gray-900 font-medium mr-2">•</span>
-                  Exhibition planning and curation
-                </li>
-                <li className="flex items-start">
-                  <span className="text-gray-900 font-medium mr-2">•</span>
-                  Art collection consulting
-                </li>
-                <li className="flex items-start">
-                  <span className="text-gray-900 font-medium mr-2">•</span>
-                  Digital portfolio development
-                </li>
-                <li className="flex items-start">
-                  <span className="text-gray-900 font-medium mr-2">•</span>
-                  Market analysis and art investment guidance
-                </li>
-                <li className="flex items-start">
-                  <span className="text-gray-900 font-medium mr-2">•</span>
-                  International art fair participation
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      {/* Values Section */}
-      <section className="bg-gray-50 py-16 md:py-24">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="text-center mb-12">
-            <h2 className="text-3xl md:text-4xl font-light text-gray-900 mb-4">
-              Our Values
-            </h2>
-            <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-              These core principles guide everything we do and shape our relationships with artists, collectors, and the broader art community.
-            </p>
-          </div>
-          
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-            <div className="text-center">
-              <h3 className="text-xl font-medium text-gray-900 mb-4">Authenticity</h3>
-              <p className="text-gray-600">
-                We champion genuine artistic expression and support artists who stay true to their unique vision and voice.
-              </p>
-            </div>
-            <div className="text-center">
-              <h3 className="text-xl font-medium text-gray-900 mb-4">Excellence</h3>
-              <p className="text-gray-600">
-                We maintain the highest standards in everything we do, from artist selection to client service and exhibition quality.
-              </p>
-            </div>
-            <div className="text-center">
-              <h3 className="text-xl font-medium text-gray-900 mb-4">Innovation</h3>
-              <p className="text-gray-600">
-                We embrace new technologies and creative approaches to connect art with audiences in meaningful ways.
+            
+            <div className="pt-8">
+              <h2 className="text-2xl font-light text-gray-900 mb-4">CONTACT</h2>
+              <p className="text-gray-700">
+                tel: <a href="tel:+16463196398" className="hover:text-gray-900">+1 646.319.6398</a><br />
+                email: <a href="mailto:agent@kokoartagency.com" className="hover:text-gray-900">agent@kokoartagency.com</a>
               </p>
             </div>
           </div>
         </div>
       </section>
-
-      {/* Contact Section */}
-      <ContactSection />
     </div>
   );
 }
