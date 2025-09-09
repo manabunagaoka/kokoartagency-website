@@ -1,45 +1,67 @@
 import { NextResponse } from 'next/server';
-import { promises as fs } from 'fs';
-import path from 'path';
 
-// Supported formats
-const IMAGE_EXTENSIONS = ['.jpg', '.jpeg', '.png', '.webp', '.gif'];
-const VIDEO_EXTENSIONS = ['.mp4', '.webm', '.mov'];
+// Predefined slide data to avoid filesystem operations
+const SLIDE_DATA = [
+  {
+    id: 'anna-hrachovec',
+    artistName: 'Anna Hrachovec',
+    url: '/slide/Anna Hrachovec.mp4',
+    type: 'video' as const
+  },
+  {
+    id: 'gisela-goppel',
+    artistName: 'Gisela Goppel',
+    url: '/slide/Gisela Goppel.jpg',
+    type: 'image' as const
+  },
+  {
+    id: 'jeffrey-fulvimari',
+    artistName: 'Jeffrey Fulvimari',
+    url: '/slide/Jeffrey Fulvimari.jpg',
+    type: 'image' as const
+  },
+  {
+    id: 'marcus-oakley',
+    artistName: 'Marcus Oakley',
+    url: '/slide/Marcus Oakley.jpg',
+    type: 'image' as const
+  },
+  {
+    id: 'masaki-ryo',
+    artistName: 'Masaki Ryo',
+    url: '/slide/Masaki Ryo.jpg',
+    type: 'image' as const
+  },
+  {
+    id: 'stina-persson',
+    artistName: 'Stina Persson',
+    url: '/slide/Stina Persson.jpg',
+    type: 'image' as const
+  },
+  {
+    id: 'tina-berning',
+    artistName: 'Tina Berning',
+    url: '/slide/Tina Berning.png',
+    type: 'image' as const
+  },
+  {
+    id: 'tomoto',
+    artistName: 'TOMOTO',
+    url: '/slide/TOMOTO.jpg',
+    type: 'image' as const
+  }
+];
 
 export async function GET() {
   try {
-    const slideDir = path.join(process.cwd(), 'public', 'slide');
-
-    // Check if directory exists
-    try {
-      await fs.access(slideDir);
-    } catch {
-      return NextResponse.json({ error: 'Slide directory not found' }, { status: 404 });
-    }
-
-    // Read all files in the directory
-    const files = await fs.readdir(slideDir);
-    
-    // Process files and extract artist names
-    const slideItems = files
-      .filter(file => {
-        const ext = path.extname(file).toLowerCase();
-        return IMAGE_EXTENSIONS.includes(ext) || VIDEO_EXTENSIONS.includes(ext);
-      })
-      .map(file => {
-        const ext = path.extname(file).toLowerCase();
-        const artistName = path.basename(file, ext);
-        const isVideo = VIDEO_EXTENSIONS.includes(ext);
-        
-        return {
-          id: file,
-          url: `/slide/${file}`,
-          artistName,
-          type: isVideo ? 'video' : 'image',
-          filename: file
-        };
-      })
-      .sort((a, b) => a.artistName.localeCompare(b.artistName));
+    // Return predefined slide data instead of reading filesystem
+    const slideItems = SLIDE_DATA.map(slide => ({
+      id: slide.id,
+      url: slide.url,
+      artistName: slide.artistName,
+      type: slide.type,
+      filename: slide.url.split('/').pop() || ''
+    }));
 
     return NextResponse.json({
       slides: slideItems,
@@ -47,7 +69,7 @@ export async function GET() {
     });
 
   } catch (error) {
-    console.error('Error reading slide files:', error);
-    return NextResponse.json({ error: 'Failed to read slide files' }, { status: 500 });
+    console.error('Error getting slide data:', error);
+    return NextResponse.json({ error: 'Failed to get slide data' }, { status: 500 });
   }
 }
