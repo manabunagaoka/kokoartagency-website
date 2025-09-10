@@ -13,14 +13,16 @@ export interface ArtistVideo {
   title: string;
 }
 
+export interface ArtistImageData {
+  id: string;
+  url: string;
+  filename: string;
+  title: string;
+}
+
 export interface ArtistMediaData {
-  artistName: string;
-  folderName: string;
-  thumbnail: string;
-  images: string[];
+  images: ArtistImageData[];
   videos: ArtistVideo[];
-  totalImages: number;
-  totalVideos: number;
 }
 
 export function useArtistImages(slug: string) {
@@ -55,21 +57,20 @@ export function useArtistImages(slug: string) {
     }
   }, [slug]);
 
-  // Convert image URLs to ArtistImage objects
-  const images: ArtistImage[] = data?.images.map((url, index) => ({
-    url,
-    alt: `${data.artistName} artwork ${index + 1}`,
-    title: `Artwork ${index + 1}`
+  // Convert API image data to ArtistImage objects
+  const images: ArtistImage[] = data?.images.map((imageData) => ({
+    url: imageData.url,
+    alt: imageData.title,
+    title: imageData.title
   })) || [];
 
   return {
     data,
     images,
     videos: data?.videos || [],
-    thumbnail: data?.thumbnail,
     loading,
     error,
-    totalImages: data?.totalImages || 0,
-    totalVideos: data?.totalVideos || 0
+    totalImages: data?.images.length || 0,
+    totalVideos: data?.videos.length || 0
   };
 }
