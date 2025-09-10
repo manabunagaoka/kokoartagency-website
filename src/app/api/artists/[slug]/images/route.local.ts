@@ -1,9 +1,6 @@
 
 import { NextRequest, NextResponse } from 'next/server';
 
-// Base Cloudinary URL for your account
-const CLOUDINARY_BASE_URL = `https://res.cloudinary.com/djp2leb00/image/upload`;
-
 const ARTIST_IMAGE_DATA: Record<string, {
   images: string[];
   videos: Array<{ id: string; filename: string; title: string }>;
@@ -247,12 +244,30 @@ const ARTIST_IMAGE_DATA: Record<string, {
   }
 };
 
-// Helper function to generate Cloudinary URL from filename
-function generateCloudinaryUrl(artistSlug: string, filename: string): string {
-  // Remove file extension for Cloudinary public_id
-  const publicId = filename.replace(/\.[^/.]+$/, "");
-  // Generate optimized Cloudinary URL
-  return `${CLOUDINARY_BASE_URL}/c_limit,h_800,w_800,q_auto:good/koko-art-agency/artists/${artistSlug}/${publicId}`;
+function getArtistFolderName(slug: string): string {
+  const folderMapping: Record<string, string> = {
+    'anna-hrachovec': 'AnnaHrachovec',
+    'chico-hayasaki': 'ChicoHayasaki',
+    'chris-long': 'ChrisLong',
+    'dominique-corbasson': 'DominiqueCorbasson',
+    'eveline-tarunadjaja': 'EvelineTarunadjaja',
+    'francois-avril': 'FrançoisAvril',
+    'gisela-goppel': 'GiselaGoppel',
+    'jeffrey-fulvimari': 'JeffreyFulvimari',
+    'kana-kobayashi': 'KanaKobayashi',
+    'kenzo-minami': 'KenzoMinami',
+    'lisa-grue': 'LisaGrue',
+    'lulu': 'LULU*',
+    'marcus-oakley': 'MarcusOakley',
+    'masaki-ryo': 'MasakiRyo',
+    'masayuki-ogisu': 'MasayukiOgisu',
+    'miho-s': 'Miho_S',
+    'stina-persson': 'StinaPersson',
+    'superdeux': 'Superdeux',
+    'tina-berning': 'TinaBerning',
+    'tomoto': 'TOMOTO'
+  };
+  return folderMapping[slug] || slug;
 }
 
 export async function GET(
@@ -265,9 +280,10 @@ export async function GET(
     if (!artistData) {
       return NextResponse.json({ error: 'Artist not found' }, { status: 404 });
     }
+    const folderName = getArtistFolderName(slug);
     const images = artistData.images.map((filename, idx) => ({
       id: `${slug}-${idx + 1}`,
-      url: generateCloudinaryUrl(slug, filename),
+      url: `/images/artists/${folderName}/${filename}`,
       filename,
       title: filename.split('.')[0],
     }));

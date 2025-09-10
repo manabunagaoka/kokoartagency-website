@@ -1,4 +1,3 @@
-
 import { NextRequest, NextResponse } from 'next/server';
 
 // Base Cloudinary URL for your account
@@ -262,27 +261,32 @@ export async function GET(
   try {
     const { slug } = await context.params;
     const artistData = ARTIST_IMAGE_DATA[slug];
+    
     if (!artistData) {
       return NextResponse.json({ error: 'Artist not found' }, { status: 404 });
     }
+
     const images = artistData.images.map((filename, idx) => ({
       id: `${slug}-${idx + 1}`,
       url: generateCloudinaryUrl(slug, filename),
       filename,
       title: filename.split('.')[0],
     }));
+
     const videos = artistData.videos.map((video) => ({
       id: video.id,
-      url: `/videos/artists/${slug}/${video.filename}`,
+      url: `/videos/artists/${slug}/${video.filename}`, // Videos still served locally for now
       filename: video.filename,
       title: video.title,
       type: 'video'
     }));
+
     return NextResponse.json({
       images,
       videos,
       total: images.length + videos.length
     });
+    
   } catch (error) {
     console.error('Error getting artist images:', error);
     return NextResponse.json({ error: 'Failed to get artist images' }, { status: 500 });
