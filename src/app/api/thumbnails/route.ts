@@ -7,7 +7,7 @@ const THUMBNAIL_DATA = [
   { filename: 'ChrisLong.jpg', artistName: 'CHRIS LONG', slug: 'chris-long' },
   { filename: 'DominiqueCorbasson.jpg', artistName: 'DOMINIQUE CORBASSON', slug: 'dominique-corbasson' },
   { filename: 'EvelineTarnadjaja.jpg', artistName: 'EVELINE TARUNADJAJA', slug: 'eveline-tarunadjaja' },
-  { filename: 'FrançoisAvril.jpeg', artistName: 'FRANÇOIS AVRIL', slug: 'francois-avril' },
+  { filename: 'FrancoisAvril.jpeg', artistName: 'FRANÇOIS AVRIL', slug: 'francois-avril' },
   { filename: 'GiselaGoppel.jpg', artistName: 'GISELA GOPPEL', slug: 'gisela-goppel' },
   { filename: 'JeffreyFulvimari.jpeg', artistName: 'JEFFREY FULVIMARI', slug: 'jeffrey-fulvimari' },
   { filename: 'KanaKobayashi.jpg', artistName: 'KANA KOBAYASHI', slug: 'kana-kobayashi' },
