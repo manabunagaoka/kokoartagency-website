@@ -251,7 +251,15 @@ const ARTIST_IMAGE_DATA: Record<string, {
 function generateCloudinaryUrl(artistSlug: string, filename: string): string {
   // Remove file extension for Cloudinary public_id
   const publicId = filename.replace(/\.[^/.]+$/, "");
-  // Generate optimized Cloudinary URL
+  
+  // For GIFs, use lighter transformations or no transformations to avoid errors
+  const isGif = filename.toLowerCase().endsWith('.gif');
+  if (isGif) {
+    // Use no transformation for GIFs to preserve animation and avoid errors
+    return `${CLOUDINARY_BASE_URL}/koko-art-agency/artists/${artistSlug}/${publicId}`;
+  }
+  
+  // Generate optimized Cloudinary URL for other image types
   return `${CLOUDINARY_BASE_URL}/c_limit,h_800,w_800,q_auto:good/koko-art-agency/artists/${artistSlug}/${publicId}`;
 }
 
