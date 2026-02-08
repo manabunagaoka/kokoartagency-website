@@ -1,22 +1,2772 @@
 {
-  "anna-hrachovec": [],
-  "chico-hayasaki": [],
-  "chris-long": [],
-  "dominique-corbasson": [],
-  "eveline-tarunadjaja": [],
-  "francois-avril": [],
-  "gisela-goppel": [],
-  "jeffrey-fulvimari": [],
-  "kana-kobayashi": [],
-  "kenzo-minami": [],
-  "lisa-grue": [],
-  "lulu": [],
-  "marcus-oakley": [],
-  "masaki-ryo": [],
-  "masayuki-ogisu": [],
-  "miho-s": [],
-  "stina-persson": [],
-  "superdeux": [],
-  "tina-berning": [],
-  "tomoto": []
+  "anna-hrachovec": [
+    {
+      "filename": "10HHA2025_600.gif",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461775/koko-art-agency/artists/anna-hrachovec/10HHA2025_600.gif",
+      "public_id": "koko-art-agency/artists/anna-hrachovec/10HHA2025_600",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "filename": "11peeweedance600.gif",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461781/koko-art-agency/artists/anna-hrachovec/11peeweedance600.gif",
+      "public_id": "koko-art-agency/artists/anna-hrachovec/11peeweedance600",
+      "width": 600,
+      "height": 450
+    },
+    {
+      "filename": "13spongebob_mail.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461786/koko-art-agency/artists/anna-hrachovec/13spongebob_mail.jpg",
+      "public_id": "koko-art-agency/artists/anna-hrachovec/13spongebob_mail",
+      "width": 260,
+      "height": 232
+    },
+    {
+      "filename": "14slimer.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461787/koko-art-agency/artists/anna-hrachovec/14slimer.jpg",
+      "public_id": "koko-art-agency/artists/anna-hrachovec/14slimer",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "filename": "15staypuft_frontwhite.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461789/koko-art-agency/artists/anna-hrachovec/15staypuft_frontwhite.jpg",
+      "public_id": "koko-art-agency/artists/anna-hrachovec/15staypuft_frontwhite",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "filename": "16balls_postcard600.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461790/koko-art-agency/artists/anna-hrachovec/16balls_postcard600.jpg",
+      "public_id": "koko-art-agency/artists/anna-hrachovec/16balls_postcard600",
+      "width": 405,
+      "height": 600
+    },
+    {
+      "filename": "17matryoshcats_arch600.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461790/koko-art-agency/artists/anna-hrachovec/17matryoshcats_arch600.jpg",
+      "public_id": "koko-art-agency/artists/anna-hrachovec/17matryoshcats_arch600",
+      "width": 600,
+      "height": 450
+    },
+    {
+      "filename": "18toucans.png",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461791/koko-art-agency/artists/anna-hrachovec/18toucans.png",
+      "public_id": "koko-art-agency/artists/anna-hrachovec/18toucans",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "filename": "19otto_likeness600.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461794/koko-art-agency/artists/anna-hrachovec/19otto_likeness600.jpg",
+      "public_id": "koko-art-agency/artists/anna-hrachovec/19otto_likeness600",
+      "width": 523,
+      "height": 600
+    },
+    {
+      "filename": "1computercat_computer600.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461795/koko-art-agency/artists/anna-hrachovec/1computercat_computer600.jpg",
+      "public_id": "koko-art-agency/artists/anna-hrachovec/1computercat_computer600",
+      "width": 600,
+      "height": 428
+    },
+    {
+      "filename": "20jumbognome_postcard600.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461796/koko-art-agency/artists/anna-hrachovec/20jumbognome_postcard600.jpg",
+      "public_id": "koko-art-agency/artists/anna-hrachovec/20jumbognome_postcard600",
+      "width": 405,
+      "height": 600
+    },
+    {
+      "filename": "2hanginthere_text600b.gif",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461798/koko-art-agency/artists/anna-hrachovec/2hanginthere_text600b.gif",
+      "public_id": "koko-art-agency/artists/anna-hrachovec/2hanginthere_text600b",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "filename": "3kokoandpuff600.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461802/koko-art-agency/artists/anna-hrachovec/3kokoandpuff600.jpg",
+      "public_id": "koko-art-agency/artists/anna-hrachovec/3kokoandpuff600",
+      "width": 600,
+      "height": 405
+    },
+    {
+      "filename": "4knittinggnome600.gif",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461803/koko-art-agency/artists/anna-hrachovec/4knittinggnome600.gif",
+      "public_id": "koko-art-agency/artists/anna-hrachovec/4knittinggnome600",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "filename": "5bud_river600.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461805/koko-art-agency/artists/anna-hrachovec/5bud_river600.jpg",
+      "public_id": "koko-art-agency/artists/anna-hrachovec/5bud_river600",
+      "width": 600,
+      "height": 338
+    },
+    {
+      "filename": "6catsidedown_text600.gif",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461806/koko-art-agency/artists/anna-hrachovec/6catsidedown_text600.gif",
+      "public_id": "koko-art-agency/artists/anna-hrachovec/6catsidedown_text600",
+      "width": 600,
+      "height": 377
+    },
+    {
+      "filename": "7catsideup_text600.gif",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461807/koko-art-agency/artists/anna-hrachovec/7catsideup_text600.gif",
+      "public_id": "koko-art-agency/artists/anna-hrachovec/7catsideup_text600",
+      "width": 600,
+      "height": 377
+    },
+    {
+      "filename": "8dogsnbooks_yellowframe600.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461809/koko-art-agency/artists/anna-hrachovec/8dogsnbooks_yellowframe600.jpg",
+      "public_id": "koko-art-agency/artists/anna-hrachovec/8dogsnbooks_yellowframe600",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "filename": "9sunspin600.gif",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461810/koko-art-agency/artists/anna-hrachovec/9sunspin600.gif",
+      "public_id": "koko-art-agency/artists/anna-hrachovec/9sunspin600",
+      "width": 600,
+      "height": 599
+    }
+  ],
+  "chico-hayasaki": [
+    {
+      "filename": "10flowers02.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461812/koko-art-agency/artists/chico-hayasaki/10flowers02.jpg",
+      "public_id": "koko-art-agency/artists/chico-hayasaki/10flowers02",
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "filename": "11flowers04.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461813/koko-art-agency/artists/chico-hayasaki/11flowers04.jpg",
+      "public_id": "koko-art-agency/artists/chico-hayasaki/11flowers04",
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "filename": "12fashion_shoes01.jpeg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461815/koko-art-agency/artists/chico-hayasaki/12fashion_shoes01.jpg",
+      "public_id": "koko-art-agency/artists/chico-hayasaki/12fashion_shoes01",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "filename": "13fashion_shoes02.jpeg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461815/koko-art-agency/artists/chico-hayasaki/13fashion_shoes02.jpg",
+      "public_id": "koko-art-agency/artists/chico-hayasaki/13fashion_shoes02",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "filename": "14fashion_shoes03.jpeg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461816/koko-art-agency/artists/chico-hayasaki/14fashion_shoes03.jpg",
+      "public_id": "koko-art-agency/artists/chico-hayasaki/14fashion_shoes03",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "filename": "15Valentino.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461817/koko-art-agency/artists/chico-hayasaki/15Valentino.jpg",
+      "public_id": "koko-art-agency/artists/chico-hayasaki/15Valentino",
+      "width": 837,
+      "height": 1000
+    },
+    {
+      "filename": "16salondeperfume_isetan.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461818/koko-art-agency/artists/chico-hayasaki/16salondeperfume_isetan.jpg",
+      "public_id": "koko-art-agency/artists/chico-hayasaki/16salondeperfume_isetan",
+      "width": 1000,
+      "height": 803
+    },
+    {
+      "filename": "17WB_woman_feerique.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461818/koko-art-agency/artists/chico-hayasaki/17WB_woman_feerique.jpg",
+      "public_id": "koko-art-agency/artists/chico-hayasaki/17WB_woman_feerique",
+      "width": 993,
+      "height": 1200
+    },
+    {
+      "filename": "18WB_woman_ootd.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461819/koko-art-agency/artists/chico-hayasaki/18WB_woman_ootd.jpg",
+      "public_id": "koko-art-agency/artists/chico-hayasaki/18WB_woman_ootd",
+      "width": 998,
+      "height": 1200
+    },
+    {
+      "filename": "19woman_beauty.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461820/koko-art-agency/artists/chico-hayasaki/19woman_beauty.jpg",
+      "public_id": "koko-art-agency/artists/chico-hayasaki/19woman_beauty",
+      "width": 411,
+      "height": 600
+    },
+    {
+      "filename": "1woman_アジザイ.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461821/koko-art-agency/artists/chico-hayasaki/1woman_%E3%82%A2%E3%82%B7%E3%82%99%E3%82%B5%E3%82%99%E3%82%A4.jpg",
+      "public_id": "koko-art-agency/artists/chico-hayasaki/1woman_アジザイ",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "filename": "20apartment.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461821/koko-art-agency/artists/chico-hayasaki/20apartment.jpg",
+      "public_id": "koko-art-agency/artists/chico-hayasaki/20apartment",
+      "width": 283,
+      "height": 400
+    },
+    {
+      "filename": "2woman_無題.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461822/koko-art-agency/artists/chico-hayasaki/2woman_%E7%84%A1%E9%A1%8C.jpg",
+      "public_id": "koko-art-agency/artists/chico-hayasaki/2woman_無題",
+      "width": 470,
+      "height": 600
+    },
+    {
+      "filename": "3woman_f01.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461823/koko-art-agency/artists/chico-hayasaki/3woman_f01.jpg",
+      "public_id": "koko-art-agency/artists/chico-hayasaki/3woman_f01",
+      "width": 467,
+      "height": 600
+    },
+    {
+      "filename": "4woman_fourseasons.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461824/koko-art-agency/artists/chico-hayasaki/4woman_fourseasons.jpg",
+      "public_id": "koko-art-agency/artists/chico-hayasaki/4woman_fourseasons",
+      "width": 458,
+      "height": 600
+    },
+    {
+      "filename": "5WB_woman_blackdress.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461825/koko-art-agency/artists/chico-hayasaki/5WB_woman_blackdress.jpg",
+      "public_id": "koko-art-agency/artists/chico-hayasaki/5WB_woman_blackdress",
+      "width": 1059,
+      "height": 1200
+    },
+    {
+      "filename": "6beauty01.jpeg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461826/koko-art-agency/artists/chico-hayasaki/6beauty01.jpg",
+      "public_id": "koko-art-agency/artists/chico-hayasaki/6beauty01",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "filename": "7beauty03.jpeg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461827/koko-art-agency/artists/chico-hayasaki/7beauty03.jpg",
+      "public_id": "koko-art-agency/artists/chico-hayasaki/7beauty03",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "filename": "8butterflyheels.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461828/koko-art-agency/artists/chico-hayasaki/8butterflyheels.jpg",
+      "public_id": "koko-art-agency/artists/chico-hayasaki/8butterflyheels",
+      "width": 600,
+      "height": 422
+    },
+    {
+      "filename": "9flower_cosmos.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461828/koko-art-agency/artists/chico-hayasaki/9flower_cosmos.jpg",
+      "public_id": "koko-art-agency/artists/chico-hayasaki/9flower_cosmos",
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "chris-long": [
+    {
+      "filename": "10Seize.png",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461829/koko-art-agency/artists/chris-long/10Seize.png",
+      "public_id": "koko-art-agency/artists/chris-long/10Seize",
+      "width": 420,
+      "height": 596
+    },
+    {
+      "filename": "11S_Glasses.png",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461831/koko-art-agency/artists/chris-long/11S_Glasses.png",
+      "public_id": "koko-art-agency/artists/chris-long/11S_Glasses",
+      "width": 598,
+      "height": 590
+    },
+    {
+      "filename": "12Sun_Hat.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461832/koko-art-agency/artists/chris-long/12Sun_Hat.jpg",
+      "public_id": "koko-art-agency/artists/chris-long/12Sun_Hat",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "filename": "13Sleep.png",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461833/koko-art-agency/artists/chris-long/13Sleep.png",
+      "public_id": "koko-art-agency/artists/chris-long/13Sleep",
+      "width": 597,
+      "height": 595
+    },
+    {
+      "filename": "14Smoothie.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461834/koko-art-agency/artists/chris-long/14Smoothie.jpg",
+      "public_id": "koko-art-agency/artists/chris-long/14Smoothie",
+      "width": 332,
+      "height": 600
+    },
+    {
+      "filename": "15-1Coffee.png",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461908/koko-art-agency/artists/chris-long/15-1Coffee.png",
+      "public_id": "koko-art-agency/artists/chris-long/15-1Coffee",
+      "width": 598,
+      "height": 600
+    },
+    {
+      "filename": "15-2Coat_2.png",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461909/koko-art-agency/artists/chris-long/15-2Coat_2.png",
+      "public_id": "koko-art-agency/artists/chris-long/15-2Coat_2",
+      "width": 593,
+      "height": 595
+    },
+    {
+      "filename": "16Window.png",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461910/koko-art-agency/artists/chris-long/16Window.png",
+      "public_id": "koko-art-agency/artists/chris-long/16Window",
+      "width": 598,
+      "height": 598
+    },
+    {
+      "filename": "17Z_Air_Bnb.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461912/koko-art-agency/artists/chris-long/17Z_Air_Bnb.jpg",
+      "public_id": "koko-art-agency/artists/chris-long/17Z_Air_Bnb",
+      "width": 600,
+      "height": 386
+    },
+    {
+      "filename": "18Beach.png",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461913/koko-art-agency/artists/chris-long/18Beach.png",
+      "public_id": "koko-art-agency/artists/chris-long/18Beach",
+      "width": 596,
+      "height": 592
+    },
+    {
+      "filename": "19Shop.png",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461914/koko-art-agency/artists/chris-long/19Shop.png",
+      "public_id": "koko-art-agency/artists/chris-long/19Shop",
+      "width": 600,
+      "height": 598
+    },
+    {
+      "filename": "1Raincoat.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461915/koko-art-agency/artists/chris-long/1Raincoat.jpg",
+      "public_id": "koko-art-agency/artists/chris-long/1Raincoat",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "filename": "20Patterns_Chris_Long3.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461917/koko-art-agency/artists/chris-long/20Patterns_Chris_Long3.jpg",
+      "public_id": "koko-art-agency/artists/chris-long/20Patterns_Chris_Long3",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "filename": "2Big_Bag.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461918/koko-art-agency/artists/chris-long/2Big_Bag.jpg",
+      "public_id": "koko-art-agency/artists/chris-long/2Big_Bag",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "filename": "3Bike.png",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461918/koko-art-agency/artists/chris-long/3Bike.png",
+      "public_id": "koko-art-agency/artists/chris-long/3Bike",
+      "width": 595,
+      "height": 588
+    },
+    {
+      "filename": "4Blu_Tie.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461919/koko-art-agency/artists/chris-long/4Blu_Tie.jpg",
+      "public_id": "koko-art-agency/artists/chris-long/4Blu_Tie",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "filename": "5ChrisLong1.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461920/koko-art-agency/artists/chris-long/5ChrisLong1.jpg",
+      "public_id": "koko-art-agency/artists/chris-long/5ChrisLong1",
+      "width": 630,
+      "height": 630
+    },
+    {
+      "filename": "6ChrisLong5.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461921/koko-art-agency/artists/chris-long/6ChrisLong5.jpg",
+      "public_id": "koko-art-agency/artists/chris-long/6ChrisLong5",
+      "width": 827,
+      "height": 827
+    },
+    {
+      "filename": "7NYT_Takeout.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461922/koko-art-agency/artists/chris-long/7NYT_Takeout.jpg",
+      "public_id": "koko-art-agency/artists/chris-long/7NYT_Takeout",
+      "width": 484,
+      "height": 600
+    },
+    {
+      "filename": "8Pizza_Oven.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461923/koko-art-agency/artists/chris-long/8Pizza_Oven.jpg",
+      "public_id": "koko-art-agency/artists/chris-long/8Pizza_Oven",
+      "width": 334,
+      "height": 600
+    }
+  ],
+  "dominique-corbasson": [
+    {
+      "filename": "10DCorbasson16-Argile-street-.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461923/koko-art-agency/artists/dominique-corbasson/10DCorbasson16-Argile-street-.jpg",
+      "public_id": "koko-art-agency/artists/dominique-corbasson/10DCorbasson16-Argile-street-",
+      "width": 1200,
+      "height": 994
+    },
+    {
+      "filename": "11Petit-Prince-Palais-Royal.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461924/koko-art-agency/artists/dominique-corbasson/11Petit-Prince-Palais-Royal.jpg",
+      "public_id": "koko-art-agency/artists/dominique-corbasson/11Petit-Prince-Palais-Royal",
+      "width": 1200,
+      "height": 819
+    },
+    {
+      "filename": "12unspecified-3.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461925/koko-art-agency/artists/dominique-corbasson/12unspecified-3.jpg",
+      "public_id": "koko-art-agency/artists/dominique-corbasson/12unspecified-3",
+      "width": 993,
+      "height": 1200
+    },
+    {
+      "filename": "13Big-Ben-couleurpg.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461926/koko-art-agency/artists/dominique-corbasson/13Big-Ben-couleurpg.jpg",
+      "public_id": "koko-art-agency/artists/dominique-corbasson/13Big-Ben-couleurpg",
+      "width": 872,
+      "height": 1200
+    },
+    {
+      "filename": "14Royal-blackhealth-of-London-42-59-cm.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461926/koko-art-agency/artists/dominique-corbasson/14Royal-blackhealth-of-London-42-59-cm.jpg",
+      "public_id": "koko-art-agency/artists/dominique-corbasson/14Royal-blackhealth-of-London-42-59-cm",
+      "width": 1200,
+      "height": 860
+    },
+    {
+      "filename": "15Skye-island-42-38-cm.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461927/koko-art-agency/artists/dominique-corbasson/15Skye-island-42-38-cm.jpg",
+      "public_id": "koko-art-agency/artists/dominique-corbasson/15Skye-island-42-38-cm",
+      "width": 1200,
+      "height": 1076
+    },
+    {
+      "filename": "16St-Abbs-38-44-cm.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461928/koko-art-agency/artists/dominique-corbasson/16St-Abbs-38-44-cm.jpg",
+      "public_id": "koko-art-agency/artists/dominique-corbasson/16St-Abbs-38-44-cm",
+      "width": 1200,
+      "height": 1037
+    },
+    {
+      "filename": "17tower-bridge-51-68-cm.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461929/koko-art-agency/artists/dominique-corbasson/17tower-bridge-51-68-cm.jpg",
+      "public_id": "koko-art-agency/artists/dominique-corbasson/17tower-bridge-51-68-cm",
+      "width": 1200,
+      "height": 903
+    },
+    {
+      "filename": "18Autumn_3105.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461930/koko-art-agency/artists/dominique-corbasson/18Autumn_3105.jpg",
+      "public_id": "koko-art-agency/artists/dominique-corbasson/18Autumn_3105",
+      "width": 1200,
+      "height": 1196
+    },
+    {
+      "filename": "19place-vendome-1.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461931/koko-art-agency/artists/dominique-corbasson/19place-vendome-1.jpg",
+      "public_id": "koko-art-agency/artists/dominique-corbasson/19place-vendome-1",
+      "width": 1200,
+      "height": 928
+    },
+    {
+      "filename": "1unspecified-2.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461932/koko-art-agency/artists/dominique-corbasson/1unspecified-2.jpg",
+      "public_id": "koko-art-agency/artists/dominique-corbasson/1unspecified-2",
+      "width": 966,
+      "height": 1200
+    },
+    {
+      "filename": "20Westminster-abbey-43-47-cm.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461933/koko-art-agency/artists/dominique-corbasson/20Westminster-abbey-43-47-cm.jpg",
+      "public_id": "koko-art-agency/artists/dominique-corbasson/20Westminster-abbey-43-47-cm",
+      "width": 1082,
+      "height": 1200
+    },
+    {
+      "filename": "2DC33-Nottingham-Castle-jpg.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461934/koko-art-agency/artists/dominique-corbasson/2DC33-Nottingham-Castle-jpg.jpg",
+      "public_id": "koko-art-agency/artists/dominique-corbasson/2DC33-Nottingham-Castle-jpg",
+      "width": 1200,
+      "height": 1006
+    },
+    {
+      "filename": "3Summer_3107b.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461935/koko-art-agency/artists/dominique-corbasson/3Summer_3107b.jpg",
+      "public_id": "koko-art-agency/artists/dominique-corbasson/3Summer_3107b",
+      "width": 1198,
+      "height": 1200
+    },
+    {
+      "filename": "4Spring_3104b.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461936/koko-art-agency/artists/dominique-corbasson/4Spring_3104b.jpg",
+      "public_id": "koko-art-agency/artists/dominique-corbasson/4Spring_3104b",
+      "width": 1200,
+      "height": 1191
+    },
+    {
+      "filename": "5corbasson-picadilly-busses-49-61cm.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461937/koko-art-agency/artists/dominique-corbasson/5corbasson-picadilly-busses-49-61cm.jpg",
+      "public_id": "koko-art-agency/artists/dominique-corbasson/5corbasson-picadilly-busses-49-61cm",
+      "width": 960,
+      "height": 1200
+    },
+    {
+      "filename": "6DC37-south-coast-of-England-jpg.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461937/koko-art-agency/artists/dominique-corbasson/6DC37-south-coast-of-England-jpg.jpg",
+      "public_id": "koko-art-agency/artists/dominique-corbasson/6DC37-south-coast-of-England-jpg",
+      "width": 1004,
+      "height": 1200
+    },
+    {
+      "filename": "7DC40.j-Notting-hill-jpg.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461939/koko-art-agency/artists/dominique-corbasson/7DC40.j-Notting-hill-jpg.jpg",
+      "public_id": "koko-art-agency/artists/dominique-corbasson/7DC40.j-Notting-hill-jpg",
+      "width": 1200,
+      "height": 956
+    },
+    {
+      "filename": "8bouquiniste-2tif.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461939/koko-art-agency/artists/dominique-corbasson/8bouquiniste-2tif.jpg",
+      "public_id": "koko-art-agency/artists/dominique-corbasson/8bouquiniste-2tif",
+      "width": 887,
+      "height": 1200
+    },
+    {
+      "filename": "9CORBASSON-Angel-Island-49x63.5cm.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461940/koko-art-agency/artists/dominique-corbasson/9CORBASSON-Angel-Island-49x63.5cm.jpg",
+      "public_id": "koko-art-agency/artists/dominique-corbasson/9CORBASSON-Angel-Island-49x63.5cm",
+      "width": 1200,
+      "height": 922
+    }
+  ],
+  "eveline-tarunadjaja": [
+    {
+      "filename": "01_ET_Rose.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461941/koko-art-agency/artists/eveline-tarunadjaja/01_ET_Rose.jpg",
+      "public_id": "koko-art-agency/artists/eveline-tarunadjaja/01_ET_Rose",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "filename": "02_ET_Harlequin.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461942/koko-art-agency/artists/eveline-tarunadjaja/02_ET_Harlequin.jpg",
+      "public_id": "koko-art-agency/artists/eveline-tarunadjaja/02_ET_Harlequin",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "filename": "03_ET_Birdie.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461943/koko-art-agency/artists/eveline-tarunadjaja/03_ET_Birdie.jpg",
+      "public_id": "koko-art-agency/artists/eveline-tarunadjaja/03_ET_Birdie",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "filename": "04_ET_Hebe.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461944/koko-art-agency/artists/eveline-tarunadjaja/04_ET_Hebe.jpg",
+      "public_id": "koko-art-agency/artists/eveline-tarunadjaja/04_ET_Hebe",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "filename": "05_ET_JackofSpade.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461948/koko-art-agency/artists/eveline-tarunadjaja/05_ET_JackofSpade.jpg",
+      "public_id": "koko-art-agency/artists/eveline-tarunadjaja/05_ET_JackofSpade",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "filename": "06_ET_sundown.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461949/koko-art-agency/artists/eveline-tarunadjaja/06_ET_sundown.jpg",
+      "public_id": "koko-art-agency/artists/eveline-tarunadjaja/06_ET_sundown",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "filename": "07_ET_dorothy.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461950/koko-art-agency/artists/eveline-tarunadjaja/07_ET_dorothy.jpg",
+      "public_id": "koko-art-agency/artists/eveline-tarunadjaja/07_ET_dorothy",
+      "width": 600,
+      "height": 427
+    },
+    {
+      "filename": "08-1_ET_grocery.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461950/koko-art-agency/artists/eveline-tarunadjaja/08-1_ET_grocery.jpg",
+      "public_id": "koko-art-agency/artists/eveline-tarunadjaja/08-1_ET_grocery",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "filename": "08-2_ET_magazine.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461951/koko-art-agency/artists/eveline-tarunadjaja/08-2_ET_magazine.jpg",
+      "public_id": "koko-art-agency/artists/eveline-tarunadjaja/08-2_ET_magazine",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "filename": "09_ET_Heathers.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461952/koko-art-agency/artists/eveline-tarunadjaja/09_ET_Heathers.jpg",
+      "public_id": "koko-art-agency/artists/eveline-tarunadjaja/09_ET_Heathers",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "filename": "10_ET_Thelma.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461957/koko-art-agency/artists/eveline-tarunadjaja/10_ET_Thelma.jpg",
+      "public_id": "koko-art-agency/artists/eveline-tarunadjaja/10_ET_Thelma",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "filename": "11_ET_BHA01.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461958/koko-art-agency/artists/eveline-tarunadjaja/11_ET_BHA01.jpg",
+      "public_id": "koko-art-agency/artists/eveline-tarunadjaja/11_ET_BHA01",
+      "width": 600,
+      "height": 553
+    },
+    {
+      "filename": "12_ETpattern_coral.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461958/koko-art-agency/artists/eveline-tarunadjaja/12_ETpattern_coral.jpg",
+      "public_id": "koko-art-agency/artists/eveline-tarunadjaja/12_ETpattern_coral",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "filename": "13_ET_Allium.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461959/koko-art-agency/artists/eveline-tarunadjaja/13_ET_Allium.jpg",
+      "public_id": "koko-art-agency/artists/eveline-tarunadjaja/13_ET_Allium",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "filename": "14.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461960/koko-art-agency/artists/eveline-tarunadjaja/14.jpg",
+      "public_id": "koko-art-agency/artists/eveline-tarunadjaja/14",
+      "width": 600,
+      "height": 419
+    },
+    {
+      "filename": "15_ET_Scales.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461961/koko-art-agency/artists/eveline-tarunadjaja/15_ET_Scales.jpg",
+      "public_id": "koko-art-agency/artists/eveline-tarunadjaja/15_ET_Scales",
+      "width": 960,
+      "height": 649
+    },
+    {
+      "filename": "16_ET_sleepingbeauty.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461962/koko-art-agency/artists/eveline-tarunadjaja/16_ET_sleepingbeauty.jpg",
+      "public_id": "koko-art-agency/artists/eveline-tarunadjaja/16_ET_sleepingbeauty",
+      "width": 600,
+      "height": 444
+    },
+    {
+      "filename": "17_ET_redriding.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461963/koko-art-agency/artists/eveline-tarunadjaja/17_ET_redriding.jpg",
+      "public_id": "koko-art-agency/artists/eveline-tarunadjaja/17_ET_redriding",
+      "width": 600,
+      "height": 420
+    },
+    {
+      "filename": "18-1babyitscoldoutside_72.png",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461964/koko-art-agency/artists/eveline-tarunadjaja/18-1babyitscoldoutside_72.png",
+      "public_id": "koko-art-agency/artists/eveline-tarunadjaja/18-1babyitscoldoutside_72",
+      "width": 500,
+      "height": 600
+    },
+    {
+      "filename": "18_ET_harlequin.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461964/koko-art-agency/artists/eveline-tarunadjaja/18_ET_harlequin.jpg",
+      "public_id": "koko-art-agency/artists/eveline-tarunadjaja/18_ET_harlequin",
+      "width": 600,
+      "height": 793
+    }
+  ],
+  "francois-avril": [
+    {
+      "filename": "03-1.jpeg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461965/koko-art-agency/artists/francois-avril/03-1.jpg",
+      "public_id": "koko-art-agency/artists/francois-avril/03-1",
+      "width": 1200,
+      "height": 602
+    },
+    {
+      "filename": "04_Evening-Francois-Avril-2013-c-Courtesy-Galerie-Huberty-Breyne.jpeg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461966/koko-art-agency/artists/francois-avril/04_Evening-Francois-Avril-2013-c-Courtesy-Galerie-Huberty-Breyne.jpg",
+      "public_id": "koko-art-agency/artists/francois-avril/04_Evening-Francois-Avril-2013-c-Courtesy-Galerie-Huberty-Breyne",
+      "width": 1200,
+      "height": 806
+    },
+    {
+      "filename": "05.Franaois-Avril-Lyrisme-I-Acrylique-sur-toile-2015-c-crCdit-Franaois-Avril.jpeg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461967/koko-art-agency/artists/francois-avril/05.Franaois-Avril-Lyrisme-I-Acrylique-sur-toile-2015-c-crCdit-Franaois-Avril.jpg",
+      "public_id": "koko-art-agency/artists/francois-avril/05.Franaois-Avril-Lyrisme-I-Acrylique-sur-toile-2015-c-crCdit-Franaois-Avril",
+      "width": 1200,
+      "height": 805
+    },
+    {
+      "filename": "06Grand-Park-Ave.jpeg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461968/koko-art-agency/artists/francois-avril/06Grand-Park-Ave.jpg",
+      "public_id": "koko-art-agency/artists/francois-avril/06Grand-Park-Ave",
+      "width": 600,
+      "height": 340
+    },
+    {
+      "filename": "07スクリーンショット-2020-02-03-11.22.10.jpeg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461969/koko-art-agency/artists/francois-avril/07%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88-2020-02-03-11.22.10.jpg",
+      "public_id": "koko-art-agency/artists/francois-avril/07スクリーンショット-2020-02-03-11.22.10",
+      "width": 1200,
+      "height": 819
+    },
+    {
+      "filename": "08スクリーンショット-2020-02-03-11.22.36.jpeg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461970/koko-art-agency/artists/francois-avril/08%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88-2020-02-03-11.22.36.jpg",
+      "public_id": "koko-art-agency/artists/francois-avril/08スクリーンショット-2020-02-03-11.22.36",
+      "width": 1200,
+      "height": 829
+    },
+    {
+      "filename": "09StDenis-calques.jpeg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461970/koko-art-agency/artists/francois-avril/09StDenis-calques.jpg",
+      "public_id": "koko-art-agency/artists/francois-avril/09StDenis-calques",
+      "width": 940,
+      "height": 1200
+    },
+    {
+      "filename": "1.Castel_1737-cor.jpeg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461971/koko-art-agency/artists/francois-avril/1.Castel_1737-cor.jpg",
+      "public_id": "koko-art-agency/artists/francois-avril/1.Castel_1737-cor",
+      "width": 1200,
+      "height": 729
+    },
+    {
+      "filename": "10Paris-Plages-2012-B1-1.jpeg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461972/koko-art-agency/artists/francois-avril/10Paris-Plages-2012-B1-1.jpg",
+      "public_id": "koko-art-agency/artists/francois-avril/10Paris-Plages-2012-B1-1",
+      "width": 750,
+      "height": 525
+    },
+    {
+      "filename": "11Paris-Plages-2012-C1.jpeg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461972/koko-art-agency/artists/francois-avril/11Paris-Plages-2012-C1.jpg",
+      "public_id": "koko-art-agency/artists/francois-avril/11Paris-Plages-2012-C1",
+      "width": 750,
+      "height": 530
+    },
+    {
+      "filename": "12Paris-Plages-2012-D1-1.jpeg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461973/koko-art-agency/artists/francois-avril/12Paris-Plages-2012-D1-1.jpg",
+      "public_id": "koko-art-agency/artists/francois-avril/12Paris-Plages-2012-D1-1",
+      "width": 750,
+      "height": 554
+    },
+    {
+      "filename": "13Pike-and-Rose.jpeg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461974/koko-art-agency/artists/francois-avril/13Pike-and-Rose.jpg",
+      "public_id": "koko-art-agency/artists/francois-avril/13Pike-and-Rose",
+      "width": 600,
+      "height": 414
+    },
+    {
+      "filename": "14avril_villebleue.jpeg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461975/koko-art-agency/artists/francois-avril/14avril_villebleue.jpg",
+      "public_id": "koko-art-agency/artists/francois-avril/14avril_villebleue",
+      "width": 750,
+      "height": 547
+    },
+    {
+      "filename": "15Avril-29front.jpeg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461975/koko-art-agency/artists/francois-avril/15Avril-29front.jpg",
+      "public_id": "koko-art-agency/artists/francois-avril/15Avril-29front",
+      "width": 635,
+      "height": 443
+    },
+    {
+      "filename": "16Blocks-of-flats21-700x456.jpeg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461976/koko-art-agency/artists/francois-avril/16Blocks-of-flats21-700x456.jpg",
+      "public_id": "koko-art-agency/artists/francois-avril/16Blocks-of-flats21-700x456",
+      "width": 700,
+      "height": 456
+    },
+    {
+      "filename": "17.RainyDayVIII_4910.jpeg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461977/koko-art-agency/artists/francois-avril/17.RainyDayVIII_4910.jpg",
+      "public_id": "koko-art-agency/artists/francois-avril/17.RainyDayVIII_4910",
+      "width": 712,
+      "height": 1200
+    },
+    {
+      "filename": "18yellow-cabs.jpeg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461977/koko-art-agency/artists/francois-avril/18yellow-cabs.jpg",
+      "public_id": "koko-art-agency/artists/francois-avril/18yellow-cabs",
+      "width": 902,
+      "height": 1200
+    },
+    {
+      "filename": "19john-lobb-800madison-1.jpeg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461978/koko-art-agency/artists/francois-avril/19john-lobb-800madison-1.jpg",
+      "public_id": "koko-art-agency/artists/francois-avril/19john-lobb-800madison-1",
+      "width": 750,
+      "height": 564
+    },
+    {
+      "filename": "20_.jpeg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461979/koko-art-agency/artists/francois-avril/20_.jpg",
+      "public_id": "koko-art-agency/artists/francois-avril/20_",
+      "width": 750,
+      "height": 750
+    },
+    {
+      "filename": "2White_Cliff_II_1723-cor.jpeg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461980/koko-art-agency/artists/francois-avril/2White_Cliff_II_1723-cor.jpg",
+      "public_id": "koko-art-agency/artists/francois-avril/2White_Cliff_II_1723-cor",
+      "width": 1200,
+      "height": 603
+    }
+  ],
+  "gisela-goppel": [
+    {
+      "filename": "gg_11.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461980/koko-art-agency/artists/gisela-goppel/gg_11.jpg",
+      "public_id": "koko-art-agency/artists/gisela-goppel/gg_11",
+      "width": 744,
+      "height": 1200
+    },
+    {
+      "filename": "gg_26.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461982/koko-art-agency/artists/gisela-goppel/gg_26.jpg",
+      "public_id": "koko-art-agency/artists/gisela-goppel/gg_26",
+      "width": 788,
+      "height": 1200
+    },
+    {
+      "filename": "gg_27.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461983/koko-art-agency/artists/gisela-goppel/gg_27.jpg",
+      "public_id": "koko-art-agency/artists/gisela-goppel/gg_27",
+      "width": 846,
+      "height": 1200
+    },
+    {
+      "filename": "gg_3.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461985/koko-art-agency/artists/gisela-goppel/gg_3.jpg",
+      "public_id": "koko-art-agency/artists/gisela-goppel/gg_3",
+      "width": 1200,
+      "height": 868
+    },
+    {
+      "filename": "gg_31.jpeg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461986/koko-art-agency/artists/gisela-goppel/gg_31.jpg",
+      "public_id": "koko-art-agency/artists/gisela-goppel/gg_31",
+      "width": 1200,
+      "height": 990
+    },
+    {
+      "filename": "gg_32.jpeg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461987/koko-art-agency/artists/gisela-goppel/gg_32.jpg",
+      "public_id": "koko-art-agency/artists/gisela-goppel/gg_32",
+      "width": 1200,
+      "height": 820
+    },
+    {
+      "filename": "gg_33jpg.jpeg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461988/koko-art-agency/artists/gisela-goppel/gg_33jpg.jpg",
+      "public_id": "koko-art-agency/artists/gisela-goppel/gg_33jpg",
+      "width": 1200,
+      "height": 730
+    },
+    {
+      "filename": "gg_37.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461990/koko-art-agency/artists/gisela-goppel/gg_37.jpg",
+      "public_id": "koko-art-agency/artists/gisela-goppel/gg_37",
+      "width": 774,
+      "height": 1118
+    },
+    {
+      "filename": "gg_38.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461991/koko-art-agency/artists/gisela-goppel/gg_38.jpg",
+      "public_id": "koko-art-agency/artists/gisela-goppel/gg_38",
+      "width": 774,
+      "height": 1118
+    },
+    {
+      "filename": "gg_39.jpeg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461993/koko-art-agency/artists/gisela-goppel/gg_39.jpg",
+      "public_id": "koko-art-agency/artists/gisela-goppel/gg_39",
+      "width": 847,
+      "height": 1200
+    },
+    {
+      "filename": "gg_40.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461994/koko-art-agency/artists/gisela-goppel/gg_40.jpg",
+      "public_id": "koko-art-agency/artists/gisela-goppel/gg_40",
+      "width": 847,
+      "height": 1200
+    },
+    {
+      "filename": "gg_5.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461995/koko-art-agency/artists/gisela-goppel/gg_5.jpg",
+      "public_id": "koko-art-agency/artists/gisela-goppel/gg_5",
+      "width": 1200,
+      "height": 868
+    },
+    {
+      "filename": "gg_6.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461996/koko-art-agency/artists/gisela-goppel/gg_6.jpg",
+      "public_id": "koko-art-agency/artists/gisela-goppel/gg_6",
+      "width": 1200,
+      "height": 868
+    },
+    {
+      "filename": "gg_beauty_2.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461997/koko-art-agency/artists/gisela-goppel/gg_beauty_2.jpg",
+      "public_id": "koko-art-agency/artists/gisela-goppel/gg_beauty_2",
+      "width": 488,
+      "height": 600
+    },
+    {
+      "filename": "gg_beauty_9.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757461999/koko-art-agency/artists/gisela-goppel/gg_beauty_9.jpg",
+      "public_id": "koko-art-agency/artists/gisela-goppel/gg_beauty_9",
+      "width": 490,
+      "height": 526
+    },
+    {
+      "filename": "gg_watercolor_2.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462002/koko-art-agency/artists/gisela-goppel/gg_watercolor_2.jpg",
+      "public_id": "koko-art-agency/artists/gisela-goppel/gg_watercolor_2",
+      "width": 484,
+      "height": 600
+    },
+    {
+      "filename": "gg_watercolor_3.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462003/koko-art-agency/artists/gisela-goppel/gg_watercolor_3.jpg",
+      "public_id": "koko-art-agency/artists/gisela-goppel/gg_watercolor_3",
+      "width": 484,
+      "height": 600
+    },
+    {
+      "filename": "gg_watercolor_5.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462004/koko-art-agency/artists/gisela-goppel/gg_watercolor_5.jpg",
+      "public_id": "koko-art-agency/artists/gisela-goppel/gg_watercolor_5",
+      "width": 484,
+      "height": 600
+    },
+    {
+      "filename": "gg_watercolor_6.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462006/koko-art-agency/artists/gisela-goppel/gg_watercolor_6.jpg",
+      "public_id": "koko-art-agency/artists/gisela-goppel/gg_watercolor_6",
+      "width": 484,
+      "height": 600
+    }
+  ],
+  "jeffrey-fulvimari": [
+    {
+      "filename": "1.jpeg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462007/koko-art-agency/artists/jeffrey-fulvimari/1.jpg",
+      "public_id": "koko-art-agency/artists/jeffrey-fulvimari/1",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "filename": "10unspecified-11.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462008/koko-art-agency/artists/jeffrey-fulvimari/10unspecified-11.jpg",
+      "public_id": "koko-art-agency/artists/jeffrey-fulvimari/10unspecified-11",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "filename": "11unspecified-10.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462009/koko-art-agency/artists/jeffrey-fulvimari/11unspecified-10.jpg",
+      "public_id": "koko-art-agency/artists/jeffrey-fulvimari/11unspecified-10",
+      "width": 600,
+      "height": 840
+    },
+    {
+      "filename": "12IMG_1763.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462010/koko-art-agency/artists/jeffrey-fulvimari/12IMG_1763.jpg",
+      "public_id": "koko-art-agency/artists/jeffrey-fulvimari/12IMG_1763",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "filename": "13IMG_6338.JPG",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462011/koko-art-agency/artists/jeffrey-fulvimari/13IMG_6338.jpg",
+      "public_id": "koko-art-agency/artists/jeffrey-fulvimari/13IMG_6338",
+      "width": 1200,
+      "height": 600
+    },
+    {
+      "filename": "14IMG_6340.JPG",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462013/koko-art-agency/artists/jeffrey-fulvimari/14IMG_6340.jpg",
+      "public_id": "koko-art-agency/artists/jeffrey-fulvimari/14IMG_6340",
+      "width": 1200,
+      "height": 600
+    },
+    {
+      "filename": "16T-SHIRT-stripe5a.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462016/koko-art-agency/artists/jeffrey-fulvimari/16T-SHIRT-stripe5a.jpg",
+      "public_id": "koko-art-agency/artists/jeffrey-fulvimari/16T-SHIRT-stripe5a",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "filename": "17Screen shot 2018-03-07 at 6.43.28 PM.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462019/koko-art-agency/artists/jeffrey-fulvimari/17Screen%20shot%202018-03-07%20at%206.43.28%20PM.jpg",
+      "public_id": "koko-art-agency/artists/jeffrey-fulvimari/17Screen shot 2018-03-07 at 6.43.28 PM",
+      "width": 600,
+      "height": 480
+    },
+    {
+      "filename": "18Screen shot 2018-03-07 at 6.44.08 PM.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462021/koko-art-agency/artists/jeffrey-fulvimari/18Screen%20shot%202018-03-07%20at%206.44.08%20PM.jpg",
+      "public_id": "koko-art-agency/artists/jeffrey-fulvimari/18Screen shot 2018-03-07 at 6.44.08 PM",
+      "width": 600,
+      "height": 503
+    },
+    {
+      "filename": "19Screen shot 2018-03-07 at 6.44.46 PM.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462024/koko-art-agency/artists/jeffrey-fulvimari/19Screen%20shot%202018-03-07%20at%206.44.46%20PM.jpg",
+      "public_id": "koko-art-agency/artists/jeffrey-fulvimari/19Screen shot 2018-03-07 at 6.44.46 PM",
+      "width": 600,
+      "height": 461
+    },
+    {
+      "filename": "2.jpeg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462027/koko-art-agency/artists/jeffrey-fulvimari/2.jpg",
+      "public_id": "koko-art-agency/artists/jeffrey-fulvimari/2",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "filename": "20FUTURE BRIGHT2 1.jpeg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462029/koko-art-agency/artists/jeffrey-fulvimari/20FUTURE%20BRIGHT2%201.jpg",
+      "public_id": "koko-art-agency/artists/jeffrey-fulvimari/20FUTURE BRIGHT2 1",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "filename": "3BALLOON.jpeg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462031/koko-art-agency/artists/jeffrey-fulvimari/3BALLOON.jpg",
+      "public_id": "koko-art-agency/artists/jeffrey-fulvimari/3BALLOON",
+      "width": 1200,
+      "height": 1059
+    },
+    {
+      "filename": "4IMG_1464_Cropped.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462032/koko-art-agency/artists/jeffrey-fulvimari/4IMG_1464_Cropped.jpg",
+      "public_id": "koko-art-agency/artists/jeffrey-fulvimari/4IMG_1464_Cropped",
+      "width": 600,
+      "height": 724
+    },
+    {
+      "filename": "5IMG_1469_cropped.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462034/koko-art-agency/artists/jeffrey-fulvimari/5IMG_1469_cropped.jpg",
+      "public_id": "koko-art-agency/artists/jeffrey-fulvimari/5IMG_1469_cropped",
+      "width": 600,
+      "height": 738
+    },
+    {
+      "filename": "6FULVIMARI wedding1 (dragged).jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462035/koko-art-agency/artists/jeffrey-fulvimari/6FULVIMARI%20wedding1%20%28dragged%29.jpg",
+      "public_id": "koko-art-agency/artists/jeffrey-fulvimari/6FULVIMARI wedding1 (dragged)",
+      "width": 675,
+      "height": 1200
+    },
+    {
+      "filename": "7IMG_2928.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462036/koko-art-agency/artists/jeffrey-fulvimari/7IMG_2928.jpg",
+      "public_id": "koko-art-agency/artists/jeffrey-fulvimari/7IMG_2928",
+      "width": 600,
+      "height": 815
+    },
+    {
+      "filename": "8Screen shot 2017-08-10 at 4.11.46 PM.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462038/koko-art-agency/artists/jeffrey-fulvimari/8Screen%20shot%202017-08-10%20at%204.11.46%20PM.jpg",
+      "public_id": "koko-art-agency/artists/jeffrey-fulvimari/8Screen shot 2017-08-10 at 4.11.46 PM",
+      "width": 600,
+      "height": 599
+    },
+    {
+      "filename": "9FASHION Spring-Summer 2020b.jpeg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462040/koko-art-agency/artists/jeffrey-fulvimari/9FASHION%20Spring-Summer%202020b.jpg",
+      "public_id": "koko-art-agency/artists/jeffrey-fulvimari/9FASHION Spring-Summer 2020b",
+      "width": 1091,
+      "height": 1200
+    }
+  ],
+  "kana-kobayashi": [
+    {
+      "filename": "01_original.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462041/koko-art-agency/artists/kana-kobayashi/01_original.jpg",
+      "public_id": "koko-art-agency/artists/kana-kobayashi/01_original",
+      "width": 424,
+      "height": 600
+    },
+    {
+      "filename": "02.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462043/koko-art-agency/artists/kana-kobayashi/02.jpg",
+      "public_id": "koko-art-agency/artists/kana-kobayashi/02",
+      "width": 845,
+      "height": 693
+    },
+    {
+      "filename": "03.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462045/koko-art-agency/artists/kana-kobayashi/03.jpg",
+      "public_id": "koko-art-agency/artists/kana-kobayashi/03",
+      "width": 595,
+      "height": 567
+    },
+    {
+      "filename": "04.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462046/koko-art-agency/artists/kana-kobayashi/04.jpg",
+      "public_id": "koko-art-agency/artists/kana-kobayashi/04",
+      "width": 786,
+      "height": 842
+    },
+    {
+      "filename": "05.jpeg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462047/koko-art-agency/artists/kana-kobayashi/05.jpg",
+      "public_id": "koko-art-agency/artists/kana-kobayashi/05",
+      "width": 849,
+      "height": 1200
+    },
+    {
+      "filename": "06_haruhata.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462049/koko-art-agency/artists/kana-kobayashi/06_haruhata.jpg",
+      "public_id": "koko-art-agency/artists/kana-kobayashi/06_haruhata",
+      "width": 842,
+      "height": 595
+    },
+    {
+      "filename": "07.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462051/koko-art-agency/artists/kana-kobayashi/07.jpg",
+      "public_id": "koko-art-agency/artists/kana-kobayashi/07",
+      "width": 992,
+      "height": 536
+    },
+    {
+      "filename": "08.jpeg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462053/koko-art-agency/artists/kana-kobayashi/08.jpg",
+      "public_id": "koko-art-agency/artists/kana-kobayashi/08",
+      "width": 1200,
+      "height": 664
+    },
+    {
+      "filename": "09.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462057/koko-art-agency/artists/kana-kobayashi/09.jpg",
+      "public_id": "koko-art-agency/artists/kana-kobayashi/09",
+      "width": 1134,
+      "height": 433
+    },
+    {
+      "filename": "10_シマウマとリズム.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462059/koko-art-agency/artists/kana-kobayashi/10_%E3%82%B7%E3%83%9E%E3%82%A6%E3%83%9E%E3%81%A8%E3%83%AA%E3%82%B9%E3%82%99%E3%83%A0.jpg",
+      "public_id": "koko-art-agency/artists/kana-kobayashi/10_シマウマとリズム",
+      "width": 600,
+      "height": 424
+    },
+    {
+      "filename": "11_cats.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462060/koko-art-agency/artists/kana-kobayashi/11_cats.jpg",
+      "public_id": "koko-art-agency/artists/kana-kobayashi/11_cats",
+      "width": 600,
+      "height": 424
+    },
+    {
+      "filename": "12.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462061/koko-art-agency/artists/kana-kobayashi/12.jpg",
+      "public_id": "koko-art-agency/artists/kana-kobayashi/12",
+      "width": 595,
+      "height": 842
+    },
+    {
+      "filename": "13.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462063/koko-art-agency/artists/kana-kobayashi/13.jpg",
+      "public_id": "koko-art-agency/artists/kana-kobayashi/13",
+      "width": 470,
+      "height": 850
+    },
+    {
+      "filename": "14.jpeg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462064/koko-art-agency/artists/kana-kobayashi/14.jpg",
+      "public_id": "koko-art-agency/artists/kana-kobayashi/14",
+      "width": 1200,
+      "height": 477
+    },
+    {
+      "filename": "15.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462065/koko-art-agency/artists/kana-kobayashi/15.jpg",
+      "public_id": "koko-art-agency/artists/kana-kobayashi/15",
+      "width": 842,
+      "height": 595
+    },
+    {
+      "filename": "16_cover_kadokawa_kana_k.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462067/koko-art-agency/artists/kana-kobayashi/16_cover_kadokawa_kana_k.jpg",
+      "public_id": "koko-art-agency/artists/kana-kobayashi/16_cover_kadokawa_kana_k",
+      "width": 600,
+      "height": 1003
+    },
+    {
+      "filename": "17_misaki.png",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462068/koko-art-agency/artists/kana-kobayashi/17_misaki.png",
+      "public_id": "koko-art-agency/artists/kana-kobayashi/17_misaki",
+      "width": 591,
+      "height": 702
+    },
+    {
+      "filename": "18.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462069/koko-art-agency/artists/kana-kobayashi/18.jpg",
+      "public_id": "koko-art-agency/artists/kana-kobayashi/18",
+      "width": 600,
+      "height": 424
+    },
+    {
+      "filename": "19.jpeg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462070/koko-art-agency/artists/kana-kobayashi/19.jpg",
+      "public_id": "koko-art-agency/artists/kana-kobayashi/19",
+      "width": 1200,
+      "height": 849
+    },
+    {
+      "filename": "20カケラ集め.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462071/koko-art-agency/artists/kana-kobayashi/20%E3%82%AB%E3%82%B1%E3%83%A9%E9%9B%86%E3%82%81.jpg",
+      "public_id": "koko-art-agency/artists/kana-kobayashi/20カケラ集め",
+      "width": 842,
+      "height": 595
+    }
+  ],
+  "kenzo-minami": [
+    {
+      "filename": "10Digitizer.01.825pxlWIDEKENZOMINAMI2010_1270.jpeg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462073/koko-art-agency/artists/kenzo-minami/10Digitizer.01.825pxlWIDEKENZOMINAMI2010_1270.jpg",
+      "public_id": "koko-art-agency/artists/kenzo-minami/10Digitizer.01.825pxlWIDEKENZOMINAMI2010_1270",
+      "width": 500,
+      "height": 333
+    },
+    {
+      "filename": "11Abstract_Kenzo8.png",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462075/koko-art-agency/artists/kenzo-minami/11Abstract_Kenzo8.png",
+      "public_id": "koko-art-agency/artists/kenzo-minami/11Abstract_Kenzo8",
+      "width": 450,
+      "height": 600
+    },
+    {
+      "filename": "12Collage_Kenzo2.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462077/koko-art-agency/artists/kenzo-minami/12Collage_Kenzo2.jpg",
+      "public_id": "koko-art-agency/artists/kenzo-minami/12Collage_Kenzo2",
+      "width": 915,
+      "height": 685
+    },
+    {
+      "filename": "13Collage_Kenzo3.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462078/koko-art-agency/artists/kenzo-minami/13Collage_Kenzo3.jpg",
+      "public_id": "koko-art-agency/artists/kenzo-minami/13Collage_Kenzo3",
+      "width": 738,
+      "height": 699
+    },
+    {
+      "filename": "14Abstract_Kenzo3.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462081/koko-art-agency/artists/kenzo-minami/14Abstract_Kenzo3.jpg",
+      "public_id": "koko-art-agency/artists/kenzo-minami/14Abstract_Kenzo3",
+      "width": 525,
+      "height": 700
+    },
+    {
+      "filename": "15Collage_Kenzo1.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462085/koko-art-agency/artists/kenzo-minami/15Collage_Kenzo1.jpg",
+      "public_id": "koko-art-agency/artists/kenzo-minami/15Collage_Kenzo1",
+      "width": 567,
+      "height": 759
+    },
+    {
+      "filename": "16Abstract_Kenzo4.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462087/koko-art-agency/artists/kenzo-minami/16Abstract_Kenzo4.jpg",
+      "public_id": "koko-art-agency/artists/kenzo-minami/16Abstract_Kenzo4",
+      "width": 525,
+      "height": 700
+    },
+    {
+      "filename": "17Abstract_Kenzo7.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462089/koko-art-agency/artists/kenzo-minami/17Abstract_Kenzo7.jpg",
+      "public_id": "koko-art-agency/artists/kenzo-minami/17Abstract_Kenzo7",
+      "width": 836,
+      "height": 1200
+    },
+    {
+      "filename": "18Abstract_Kenzo5.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462090/koko-art-agency/artists/kenzo-minami/18Abstract_Kenzo5.jpg",
+      "public_id": "koko-art-agency/artists/kenzo-minami/18Abstract_Kenzo5",
+      "width": 600,
+      "height": 900
+    },
+    {
+      "filename": "19Abstract_Kenzo4.png",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462092/koko-art-agency/artists/kenzo-minami/19Abstract_Kenzo4.png",
+      "public_id": "koko-art-agency/artists/kenzo-minami/19Abstract_Kenzo4",
+      "width": 700,
+      "height": 525
+    },
+    {
+      "filename": "1_INFINITY-N.W.N.C.950H.D4KENZOMINAMI2012.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462094/koko-art-agency/artists/kenzo-minami/1_INFINITY-N.W.N.C.950H.D4KENZOMINAMI2012.jpg",
+      "public_id": "koko-art-agency/artists/kenzo-minami/1_INFINITY-N.W.N.C.950H.D4KENZOMINAMI2012",
+      "width": 633,
+      "height": 950
+    },
+    {
+      "filename": "2_Kenzo_for_Veuve_Clicquot_pdf 3.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462095/koko-art-agency/artists/kenzo-minami/2_Kenzo_for_Veuve_Clicquot_pdf%203.jpg",
+      "public_id": "koko-art-agency/artists/kenzo-minami/2_Kenzo_for_Veuve_Clicquot_pdf 3",
+      "width": 729,
+      "height": 728
+    },
+    {
+      "filename": "3_999_NOCTURNAL.Crop2CWC_WEB©KENZOMINAMI20111.png",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462096/koko-art-agency/artists/kenzo-minami/3_999_NOCTURNAL.Crop2CWC_WEB%C2%A9KENZOMINAMI20111.png",
+      "public_id": "koko-art-agency/artists/kenzo-minami/3_999_NOCTURNAL.Crop2CWC_WEB©KENZOMINAMI20111",
+      "width": 403,
+      "height": 600
+    },
+    {
+      "filename": "4Mural_Kenzo_Minami1.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462097/koko-art-agency/artists/kenzo-minami/4Mural_Kenzo_Minami1.jpg",
+      "public_id": "koko-art-agency/artists/kenzo-minami/4Mural_Kenzo_Minami1",
+      "width": 950,
+      "height": 524
+    },
+    {
+      "filename": "5_Abstract_Kenzo9.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462098/koko-art-agency/artists/kenzo-minami/5_Abstract_Kenzo9.jpg",
+      "public_id": "koko-art-agency/artists/kenzo-minami/5_Abstract_Kenzo9",
+      "width": 950,
+      "height": 520
+    },
+    {
+      "filename": "6Abstract_Kenzo2.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462099/koko-art-agency/artists/kenzo-minami/6Abstract_Kenzo2.jpg",
+      "public_id": "koko-art-agency/artists/kenzo-minami/6Abstract_Kenzo2",
+      "width": 525,
+      "height": 713
+    },
+    {
+      "filename": "7-1_Kenzo_for_Veuve_Clicquot_pdf 5.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462100/koko-art-agency/artists/kenzo-minami/7-1_Kenzo_for_Veuve_Clicquot_pdf%205.jpg",
+      "public_id": "koko-art-agency/artists/kenzo-minami/7-1_Kenzo_for_Veuve_Clicquot_pdf 5",
+      "width": 932,
+      "height": 676
+    },
+    {
+      "filename": "7Collage_Kenzo4.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462102/koko-art-agency/artists/kenzo-minami/7Collage_Kenzo4.jpg",
+      "public_id": "koko-art-agency/artists/kenzo-minami/7Collage_Kenzo4",
+      "width": 950,
+      "height": 672
+    },
+    {
+      "filename": "8Abstract_Kenzo6.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462104/koko-art-agency/artists/kenzo-minami/8Abstract_Kenzo6.jpg",
+      "public_id": "koko-art-agency/artists/kenzo-minami/8Abstract_Kenzo6",
+      "width": 950,
+      "height": 594
+    },
+    {
+      "filename": "9Abstract_Kenzo1.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462448/koko-art-agency/artists/kenzo-minami/9Abstract_Kenzo1.jpg",
+      "public_id": "koko-art-agency/artists/kenzo-minami/9Abstract_Kenzo1",
+      "width": 495,
+      "height": 700
+    }
+  ],
+  "lisa-grue": [
+    {
+      "filename": "01-Lisa-grue-best-mom-high.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462449/koko-art-agency/artists/lisa-grue/01-Lisa-grue-best-mom-high.jpg",
+      "public_id": "koko-art-agency/artists/lisa-grue/01-Lisa-grue-best-mom-high",
+      "width": 847,
+      "height": 1200
+    },
+    {
+      "filename": "02-Lisa-grue-pattern-highres.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462451/koko-art-agency/artists/lisa-grue/02-Lisa-grue-pattern-highres.jpg",
+      "public_id": "koko-art-agency/artists/lisa-grue/02-Lisa-grue-pattern-highres",
+      "width": 1200,
+      "height": 869
+    },
+    {
+      "filename": "03-lisa-grue-friendship-book-high.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462452/koko-art-agency/artists/lisa-grue/03-lisa-grue-friendship-book-high.jpg",
+      "public_id": "koko-art-agency/artists/lisa-grue/03-lisa-grue-friendship-book-high",
+      "width": 468,
+      "height": 546
+    },
+    {
+      "filename": "04-summerwillbeback_•_Instagram_photos_and_videos 2.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462453/koko-art-agency/artists/lisa-grue/04-summerwillbeback_%E2%80%A2_Instagram_photos_and_videos%202.jpg",
+      "public_id": "koko-art-agency/artists/lisa-grue/04-summerwillbeback_•_Instagram_photos_and_videos 2",
+      "width": 861,
+      "height": 1200
+    },
+    {
+      "filename": "05-Lisa-grue-frame-high.jpeg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462455/koko-art-agency/artists/lisa-grue/05-Lisa-grue-frame-high.jpg",
+      "public_id": "koko-art-agency/artists/lisa-grue/05-Lisa-grue-frame-high",
+      "width": 857,
+      "height": 1200
+    },
+    {
+      "filename": "06-Lisa-grue-women-high.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462456/koko-art-agency/artists/lisa-grue/06-Lisa-grue-women-high.jpg",
+      "public_id": "koko-art-agency/artists/lisa-grue/06-Lisa-grue-women-high",
+      "width": 848,
+      "height": 1200
+    },
+    {
+      "filename": "07-Lisa-grue-high.gif",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462458/koko-art-agency/artists/lisa-grue/07-Lisa-grue-high.gif",
+      "public_id": "koko-art-agency/artists/lisa-grue/07-Lisa-grue-high",
+      "width": 1200,
+      "height": 1164
+    },
+    {
+      "filename": "08-Lisa-grue-faceshape-high.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462465/koko-art-agency/artists/lisa-grue/08-Lisa-grue-faceshape-high.jpg",
+      "public_id": "koko-art-agency/artists/lisa-grue/08-Lisa-grue-faceshape-high",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "filename": "09-Lisa-grue-fashion-high.jpeg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462468/koko-art-agency/artists/lisa-grue/09-Lisa-grue-fashion-high.jpg",
+      "public_id": "koko-art-agency/artists/lisa-grue/09-Lisa-grue-fashion-high",
+      "width": 848,
+      "height": 1200
+    },
+    {
+      "filename": "10-PEnJ-2gbax2PZ_aoSMDt5Wlu4UBl7DNHnq59FF3rINA,IgRqQb5Jb9z7dYsOJBFDM4BDySNPWpHxqWIqATHs_Qo.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462469/koko-art-agency/artists/lisa-grue/10-PEnJ-2gbax2PZ_aoSMDt5Wlu4UBl7DNHnq59FF3rINA%2CIgRqQb5Jb9z7dYsOJBFDM4BDySNPWpHxqWIqATHs_Qo.jpg",
+      "public_id": "koko-art-agency/artists/lisa-grue/10-PEnJ-2gbax2PZ_aoSMDt5Wlu4UBl7DNHnq59FF3rINA,IgRqQb5Jb9z7dYsOJBFDM4BDySNPWpHxqWIqATHs_Qo",
+      "width": 960,
+      "height": 1120
+    },
+    {
+      "filename": "11-Lisa-grue-embroidery-1-high.jpeg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462470/koko-art-agency/artists/lisa-grue/11-Lisa-grue-embroidery-1-high.jpg",
+      "public_id": "koko-art-agency/artists/lisa-grue/11-Lisa-grue-embroidery-1-high",
+      "width": 1161,
+      "height": 1200
+    },
+    {
+      "filename": "12-Lisa-grue-fashion-higfh.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462472/koko-art-agency/artists/lisa-grue/12-Lisa-grue-fashion-higfh.jpg",
+      "public_id": "koko-art-agency/artists/lisa-grue/12-Lisa-grue-fashion-higfh",
+      "width": 848,
+      "height": 1200
+    },
+    {
+      "filename": "13-Lisa-grue-styleguide-hugh.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1757462473/koko-art-agency/artists/lisa-grue/13-Lisa-grue-styleguide-hugh.jpg",
+      "public_id": "koko-art-agency/artists/lisa-grue/13-Lisa-grue-styleguide-hugh",
+      "width": 1200,
+      "height": 1187
+    },
+    {
+      "filename": "14-Lisa-grue-faceshape-1-high.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549611/koko-art-agency/artists/lisa-grue/14-Lisa-grue-faceshape-1-high.jpg",
+      "public_id": "koko-art-agency/artists/lisa-grue/14-Lisa-grue-faceshape-1-high",
+      "width": 1200,
+      "height": 1196
+    },
+    {
+      "filename": "15-lisagrue-dukales-dream-high.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549614/koko-art-agency/artists/lisa-grue/15-lisagrue-dukales-dream-high.jpg",
+      "public_id": "koko-art-agency/artists/lisa-grue/15-lisagrue-dukales-dream-high",
+      "width": 954,
+      "height": 1200
+    },
+    {
+      "filename": "16-Lisa-grue-christmas-high.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549616/koko-art-agency/artists/lisa-grue/16-Lisa-grue-christmas-high.jpg",
+      "public_id": "koko-art-agency/artists/lisa-grue/16-Lisa-grue-christmas-high",
+      "width": 847,
+      "height": 1200
+    },
+    {
+      "filename": "17-Lisa-grue-christmas-high.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549619/koko-art-agency/artists/lisa-grue/17-Lisa-grue-christmas-high.jpg",
+      "public_id": "koko-art-agency/artists/lisa-grue/17-Lisa-grue-christmas-high",
+      "width": 846,
+      "height": 1200
+    },
+    {
+      "filename": "18pattern-love-1.jpeg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549621/koko-art-agency/artists/lisa-grue/18pattern-love-1.jpg",
+      "public_id": "koko-art-agency/artists/lisa-grue/18pattern-love-1",
+      "width": 1200,
+      "height": 869
+    },
+    {
+      "filename": "19-Lisa_416-86.jpeg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549624/koko-art-agency/artists/lisa-grue/19-Lisa_416-86.jpg",
+      "public_id": "koko-art-agency/artists/lisa-grue/19-Lisa_416-86",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "filename": "20-lisagrue-one-dream-high.jpeg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549627/koko-art-agency/artists/lisa-grue/20-lisagrue-one-dream-high.jpg",
+      "public_id": "koko-art-agency/artists/lisa-grue/20-lisagrue-one-dream-high",
+      "width": 848,
+      "height": 1200
+    }
+  ],
+  "lulu": [
+    {
+      "filename": "10LULU25.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549630/koko-art-agency/artists/lulu/10LULU25.jpg",
+      "public_id": "koko-art-agency/artists/lulu/10LULU25",
+      "width": 900,
+      "height": 880
+    },
+    {
+      "filename": "11LULU22.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549632/koko-art-agency/artists/lulu/11LULU22.jpg",
+      "public_id": "koko-art-agency/artists/lulu/11LULU22",
+      "width": 1000,
+      "height": 871
+    },
+    {
+      "filename": "12LULU24.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549634/koko-art-agency/artists/lulu/12LULU24.jpg",
+      "public_id": "koko-art-agency/artists/lulu/12LULU24",
+      "width": 848,
+      "height": 1200
+    },
+    {
+      "filename": "13LULU6.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549636/koko-art-agency/artists/lulu/13LULU6.jpg",
+      "public_id": "koko-art-agency/artists/lulu/13LULU6",
+      "width": 900,
+      "height": 688
+    },
+    {
+      "filename": "14LULU26.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549637/koko-art-agency/artists/lulu/14LULU26.jpg",
+      "public_id": "koko-art-agency/artists/lulu/14LULU26",
+      "width": 848,
+      "height": 1200
+    },
+    {
+      "filename": "15LULU23.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549639/koko-art-agency/artists/lulu/15LULU23.jpg",
+      "public_id": "koko-art-agency/artists/lulu/15LULU23",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "filename": "16LULU17.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549640/koko-art-agency/artists/lulu/16LULU17.jpg",
+      "public_id": "koko-art-agency/artists/lulu/16LULU17",
+      "width": 900,
+      "height": 1141
+    },
+    {
+      "filename": "17LULU10.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549643/koko-art-agency/artists/lulu/17LULU10.jpg",
+      "public_id": "koko-art-agency/artists/lulu/17LULU10",
+      "width": 848,
+      "height": 1200
+    },
+    {
+      "filename": "18vitra-a.png",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549645/koko-art-agency/artists/lulu/18vitra-a.png",
+      "public_id": "koko-art-agency/artists/lulu/18vitra-a",
+      "width": 848,
+      "height": 1200
+    },
+    {
+      "filename": "19LULU18.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549648/koko-art-agency/artists/lulu/19LULU18.jpg",
+      "public_id": "koko-art-agency/artists/lulu/19LULU18",
+      "width": 875,
+      "height": 1200
+    },
+    {
+      "filename": "1LULU1.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549649/koko-art-agency/artists/lulu/1LULU1.jpg",
+      "public_id": "koko-art-agency/artists/lulu/1LULU1",
+      "width": 726,
+      "height": 650
+    },
+    {
+      "filename": "20LULU16.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549651/koko-art-agency/artists/lulu/20LULU16.jpg",
+      "public_id": "koko-art-agency/artists/lulu/20LULU16",
+      "width": 900,
+      "height": 640
+    },
+    {
+      "filename": "2LULU3.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549653/koko-art-agency/artists/lulu/2LULU3.jpg",
+      "public_id": "koko-art-agency/artists/lulu/2LULU3",
+      "width": 857,
+      "height": 1200
+    },
+    {
+      "filename": "3LULU7.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549654/koko-art-agency/artists/lulu/3LULU7.jpg",
+      "public_id": "koko-art-agency/artists/lulu/3LULU7",
+      "width": 900,
+      "height": 659
+    },
+    {
+      "filename": "4LULU2.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549656/koko-art-agency/artists/lulu/4LULU2.jpg",
+      "public_id": "koko-art-agency/artists/lulu/4LULU2",
+      "width": 848,
+      "height": 1200
+    },
+    {
+      "filename": "5LULU4.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549658/koko-art-agency/artists/lulu/5LULU4.jpg",
+      "public_id": "koko-art-agency/artists/lulu/5LULU4",
+      "width": 895,
+      "height": 1200
+    },
+    {
+      "filename": "6LULU11.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549659/koko-art-agency/artists/lulu/6LULU11.jpg",
+      "public_id": "koko-art-agency/artists/lulu/6LULU11",
+      "width": 900,
+      "height": 930
+    },
+    {
+      "filename": "7IMG_2406.png",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549661/koko-art-agency/artists/lulu/7IMG_2406.png",
+      "public_id": "koko-art-agency/artists/lulu/7IMG_2406",
+      "width": 640,
+      "height": 799
+    },
+    {
+      "filename": "8LULU13.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549663/koko-art-agency/artists/lulu/8LULU13.jpg",
+      "public_id": "koko-art-agency/artists/lulu/8LULU13",
+      "width": 755,
+      "height": 1200
+    },
+    {
+      "filename": "9LULU19.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549664/koko-art-agency/artists/lulu/9LULU19.jpg",
+      "public_id": "koko-art-agency/artists/lulu/9LULU19",
+      "width": 900,
+      "height": 862
+    }
+  ],
+  "marcus-oakley": [
+    {
+      "filename": "Sealstrand_marcus oakleyjpg.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549666/koko-art-agency/artists/marcus-oakley/Sealstrand_marcus%20oakleyjpg.jpg",
+      "public_id": "koko-art-agency/artists/marcus-oakley/Sealstrand_marcus oakleyjpg",
+      "width": 771,
+      "height": 1200
+    },
+    {
+      "filename": "Sheep_marcus oakley.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549668/koko-art-agency/artists/marcus-oakley/Sheep_marcus%20oakley.jpg",
+      "public_id": "koko-art-agency/artists/marcus-oakley/Sheep_marcus oakley",
+      "width": 771,
+      "height": 1200
+    },
+    {
+      "filename": "The Wynd_marcus oakleyjpg.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549670/koko-art-agency/artists/marcus-oakley/The%20Wynd_marcus%20oakleyjpg.jpg",
+      "public_id": "koko-art-agency/artists/marcus-oakley/The Wynd_marcus oakleyjpg",
+      "width": 771,
+      "height": 1200
+    },
+    {
+      "filename": "bedheadss_marcus_oakley_jpg.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549671/koko-art-agency/artists/marcus-oakley/bedheadss_marcus_oakley_jpg.jpg",
+      "public_id": "koko-art-agency/artists/marcus-oakley/bedheadss_marcus_oakley_jpg",
+      "width": 771,
+      "height": 1200
+    },
+    {
+      "filename": "birds_marcus oakleyjpg.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549673/koko-art-agency/artists/marcus-oakley/birds_marcus%20oakleyjpg.jpg",
+      "public_id": "koko-art-agency/artists/marcus-oakley/birds_marcus oakleyjpg",
+      "width": 771,
+      "height": 1200
+    },
+    {
+      "filename": "boat trip_marcus oakleyjpg.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549675/koko-art-agency/artists/marcus-oakley/boat%20trip_marcus%20oakleyjpg.jpg",
+      "public_id": "koko-art-agency/artists/marcus-oakley/boat trip_marcus oakleyjpg",
+      "width": 771,
+      "height": 1200
+    },
+    {
+      "filename": "brick car_marcus_oakley_.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549677/koko-art-agency/artists/marcus-oakley/brick%20car_marcus_oakley_.jpg",
+      "public_id": "koko-art-agency/artists/marcus-oakley/brick car_marcus_oakley_",
+      "width": 771,
+      "height": 1200
+    },
+    {
+      "filename": "busker dog_marcus oakleyjpg.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549678/koko-art-agency/artists/marcus-oakley/busker%20dog_marcus%20oakleyjpg.jpg",
+      "public_id": "koko-art-agency/artists/marcus-oakley/busker dog_marcus oakleyjpg",
+      "width": 771,
+      "height": 1200
+    },
+    {
+      "filename": "caterpillar._marcus_oakley_jpg.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549679/koko-art-agency/artists/marcus-oakley/caterpillar._marcus_oakley_jpg.jpg",
+      "public_id": "koko-art-agency/artists/marcus-oakley/caterpillar._marcus_oakley_jpg",
+      "width": 771,
+      "height": 1200
+    },
+    {
+      "filename": "cats_marcus_oakley_.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549681/koko-art-agency/artists/marcus-oakley/cats_marcus_oakley_.jpg",
+      "public_id": "koko-art-agency/artists/marcus-oakley/cats_marcus_oakley_",
+      "width": 771,
+      "height": 1200
+    },
+    {
+      "filename": "cup-and-spoon_marcus oakley.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549682/koko-art-agency/artists/marcus-oakley/cup-and-spoon_marcus%20oakley.jpg",
+      "public_id": "koko-art-agency/artists/marcus-oakley/cup-and-spoon_marcus oakley",
+      "width": 771,
+      "height": 1200
+    },
+    {
+      "filename": "elephant_marcus oakley.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549684/koko-art-agency/artists/marcus-oakley/elephant_marcus%20oakley.jpg",
+      "public_id": "koko-art-agency/artists/marcus-oakley/elephant_marcus oakley",
+      "width": 771,
+      "height": 1200
+    },
+    {
+      "filename": "friends_marcus oakley.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549685/koko-art-agency/artists/marcus-oakley/friends_marcus%20oakley.jpg",
+      "public_id": "koko-art-agency/artists/marcus-oakley/friends_marcus oakley",
+      "width": 771,
+      "height": 1200
+    },
+    {
+      "filename": "ghost_marcus oakley.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549686/koko-art-agency/artists/marcus-oakley/ghost_marcus%20oakley.jpg",
+      "public_id": "koko-art-agency/artists/marcus-oakley/ghost_marcus oakley",
+      "width": 771,
+      "height": 1200
+    },
+    {
+      "filename": "girl-and-cat_OAKLEY.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549688/koko-art-agency/artists/marcus-oakley/girl-and-cat_OAKLEY.jpg",
+      "public_id": "koko-art-agency/artists/marcus-oakley/girl-and-cat_OAKLEY",
+      "width": 771,
+      "height": 1200
+    },
+    {
+      "filename": "handplant_marcus oakley.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549689/koko-art-agency/artists/marcus-oakley/handplant_marcus%20oakley.jpg",
+      "public_id": "koko-art-agency/artists/marcus-oakley/handplant_marcus oakley",
+      "width": 771,
+      "height": 1200
+    },
+    {
+      "filename": "heads_marcus oakley.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549690/koko-art-agency/artists/marcus-oakley/heads_marcus%20oakley.jpg",
+      "public_id": "koko-art-agency/artists/marcus-oakley/heads_marcus oakley",
+      "width": 771,
+      "height": 1200
+    },
+    {
+      "filename": "livingroom_marcus oakley.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549692/koko-art-agency/artists/marcus-oakley/livingroom_marcus%20oakley.jpg",
+      "public_id": "koko-art-agency/artists/marcus-oakley/livingroom_marcus oakley",
+      "width": 771,
+      "height": 1200
+    },
+    {
+      "filename": "pot plant_marcus oakley.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549693/koko-art-agency/artists/marcus-oakley/pot%20plant_marcus%20oakley.jpg",
+      "public_id": "koko-art-agency/artists/marcus-oakley/pot plant_marcus oakley",
+      "width": 771,
+      "height": 1200
+    },
+    {
+      "filename": "standing_marcus oakleystanding.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549695/koko-art-agency/artists/marcus-oakley/standing_marcus%20oakleystanding.jpg",
+      "public_id": "koko-art-agency/artists/marcus-oakley/standing_marcus oakleystanding",
+      "width": 771,
+      "height": 1200
+    }
+  ],
+  "masaki-ryo": [
+    {
+      "filename": "0-2Bouquet_2.png",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549697/koko-art-agency/artists/masaki-ryo/0-2Bouquet_2.png",
+      "public_id": "koko-art-agency/artists/masaki-ryo/0-2Bouquet_2",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "filename": "10Christmas-5.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549699/koko-art-agency/artists/masaki-ryo/10Christmas-5.jpg",
+      "public_id": "koko-art-agency/artists/masaki-ryo/10Christmas-5",
+      "width": 1200,
+      "height": 840
+    },
+    {
+      "filename": "11-1a-dogs-16.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549701/koko-art-agency/artists/masaki-ryo/11-1a-dogs-16.jpg",
+      "public_id": "koko-art-agency/artists/masaki-ryo/11-1a-dogs-16",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "filename": "11-2cat-mr-3.png",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549703/koko-art-agency/artists/masaki-ryo/11-2cat-mr-3.png",
+      "public_id": "koko-art-agency/artists/masaki-ryo/11-2cat-mr-3",
+      "width": 455,
+      "height": 600
+    },
+    {
+      "filename": "12a-acce-1.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549705/koko-art-agency/artists/masaki-ryo/12a-acce-1.jpg",
+      "public_id": "koko-art-agency/artists/masaki-ryo/12a-acce-1",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "filename": "13a-acce-2.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549707/koko-art-agency/artists/masaki-ryo/13a-acce-2.jpg",
+      "public_id": "koko-art-agency/artists/masaki-ryo/13a-acce-2",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "filename": "14a-acce-10.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549709/koko-art-agency/artists/masaki-ryo/14a-acce-10.jpg",
+      "public_id": "koko-art-agency/artists/masaki-ryo/14a-acce-10",
+      "width": 960,
+      "height": 1200
+    },
+    {
+      "filename": "15Mansion.png",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549711/koko-art-agency/artists/masaki-ryo/15Mansion.png",
+      "public_id": "koko-art-agency/artists/masaki-ryo/15Mansion",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "filename": "1b-caspari-2-1.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549714/koko-art-agency/artists/masaki-ryo/1b-caspari-2-1.jpg",
+      "public_id": "koko-art-agency/artists/masaki-ryo/1b-caspari-2-1",
+      "width": 920,
+      "height": 1200
+    },
+    {
+      "filename": "2dog-mr-16.png",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549716/koko-art-agency/artists/masaki-ryo/2dog-mr-16.png",
+      "public_id": "koko-art-agency/artists/masaki-ryo/2dog-mr-16",
+      "width": 425,
+      "height": 600
+    },
+    {
+      "filename": "3dog-mr-18.png",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549717/koko-art-agency/artists/masaki-ryo/3dog-mr-18.png",
+      "public_id": "koko-art-agency/artists/masaki-ryo/3dog-mr-18",
+      "width": 600,
+      "height": 474
+    },
+    {
+      "filename": "4_8-DI-MR-202212.jpeg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549719/koko-art-agency/artists/masaki-ryo/4_8-DI-MR-202212.jpg",
+      "public_id": "koko-art-agency/artists/masaki-ryo/4_8-DI-MR-202212",
+      "width": 938,
+      "height": 1200
+    },
+    {
+      "filename": "6-2a-valentine-7.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549722/koko-art-agency/artists/masaki-ryo/6-2a-valentine-7.jpg",
+      "public_id": "koko-art-agency/artists/masaki-ryo/6-2a-valentine-7",
+      "width": 960,
+      "height": 1200
+    },
+    {
+      "filename": "7ShoesShop.png",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549723/koko-art-agency/artists/masaki-ryo/7ShoesShop.png",
+      "public_id": "koko-art-agency/artists/masaki-ryo/7ShoesShop",
+      "width": 1080,
+      "height": 995
+    },
+    {
+      "filename": "8-1Spring.png",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549726/koko-art-agency/artists/masaki-ryo/8-1Spring.png",
+      "public_id": "koko-art-agency/artists/masaki-ryo/8-1Spring",
+      "width": 612,
+      "height": 859
+    },
+    {
+      "filename": "8-2Greenhouse.png",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549730/koko-art-agency/artists/masaki-ryo/8-2Greenhouse.png",
+      "public_id": "koko-art-agency/artists/masaki-ryo/8-2Greenhouse",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "filename": "9JapanesePark.png",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549733/koko-art-agency/artists/masaki-ryo/9JapanesePark.png",
+      "public_id": "koko-art-agency/artists/masaki-ryo/9JapanesePark",
+      "width": 1200,
+      "height": 1200
+    }
+  ],
+  "masayuki-ogisu": [
+    {
+      "filename": "4A46D11F-2DDD-4F3B-A8AF-6EFC073E7595.JPG",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549737/koko-art-agency/artists/masayuki-ogisu/4A46D11F-2DDD-4F3B-A8AF-6EFC073E7595.jpg",
+      "public_id": "koko-art-agency/artists/masayuki-ogisu/4A46D11F-2DDD-4F3B-A8AF-6EFC073E7595",
+      "width": 960,
+      "height": 1200
+    },
+    {
+      "filename": "81E1921C-2C18-4ACD-8B1C-3041F1846B6E.JPG",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549739/koko-art-agency/artists/masayuki-ogisu/81E1921C-2C18-4ACD-8B1C-3041F1846B6E.jpg",
+      "public_id": "koko-art-agency/artists/masayuki-ogisu/81E1921C-2C18-4ACD-8B1C-3041F1846B6E",
+      "width": 960,
+      "height": 1200
+    },
+    {
+      "filename": "8B71E1A4-4107-4777-8D07-4EEEEB0093B6.JPG",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549741/koko-art-agency/artists/masayuki-ogisu/8B71E1A4-4107-4777-8D07-4EEEEB0093B6.jpg",
+      "public_id": "koko-art-agency/artists/masayuki-ogisu/8B71E1A4-4107-4777-8D07-4EEEEB0093B6",
+      "width": 960,
+      "height": 1200
+    },
+    {
+      "filename": "A7A95255-3C63-437B-812E-ACA3D890FFBB.JPG",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549743/koko-art-agency/artists/masayuki-ogisu/A7A95255-3C63-437B-812E-ACA3D890FFBB.jpg",
+      "public_id": "koko-art-agency/artists/masayuki-ogisu/A7A95255-3C63-437B-812E-ACA3D890FFBB",
+      "width": 960,
+      "height": 1200
+    },
+    {
+      "filename": "FDA57A0E-3B9E-48E5-822F-DFDA639BB540.JPG",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549744/koko-art-agency/artists/masayuki-ogisu/FDA57A0E-3B9E-48E5-822F-DFDA639BB540.jpg",
+      "public_id": "koko-art-agency/artists/masayuki-ogisu/FDA57A0E-3B9E-48E5-822F-DFDA639BB540",
+      "width": 1200,
+      "height": 848
+    },
+    {
+      "filename": "IMG_2219.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549746/koko-art-agency/artists/masayuki-ogisu/IMG_2219.jpg",
+      "public_id": "koko-art-agency/artists/masayuki-ogisu/IMG_2219",
+      "width": 750,
+      "height": 1073
+    },
+    {
+      "filename": "IMG_3059.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549748/koko-art-agency/artists/masayuki-ogisu/IMG_3059.jpg",
+      "public_id": "koko-art-agency/artists/masayuki-ogisu/IMG_3059",
+      "width": 709,
+      "height": 916
+    },
+    {
+      "filename": "IMG_3217.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549750/koko-art-agency/artists/masayuki-ogisu/IMG_3217.jpg",
+      "public_id": "koko-art-agency/artists/masayuki-ogisu/IMG_3217",
+      "width": 750,
+      "height": 968
+    },
+    {
+      "filename": "IMG_4344.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549752/koko-art-agency/artists/masayuki-ogisu/IMG_4344.jpg",
+      "public_id": "koko-art-agency/artists/masayuki-ogisu/IMG_4344",
+      "width": 750,
+      "height": 859
+    },
+    {
+      "filename": "IMG_4894.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549753/koko-art-agency/artists/masayuki-ogisu/IMG_4894.jpg",
+      "public_id": "koko-art-agency/artists/masayuki-ogisu/IMG_4894",
+      "width": 750,
+      "height": 922
+    },
+    {
+      "filename": "IMG_5063.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549755/koko-art-agency/artists/masayuki-ogisu/IMG_5063.jpg",
+      "public_id": "koko-art-agency/artists/masayuki-ogisu/IMG_5063",
+      "width": 1200,
+      "height": 900
+    },
+    {
+      "filename": "IMG_5108.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549757/koko-art-agency/artists/masayuki-ogisu/IMG_5108.jpg",
+      "public_id": "koko-art-agency/artists/masayuki-ogisu/IMG_5108",
+      "width": 750,
+      "height": 745
+    },
+    {
+      "filename": "IMG_9279.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549758/koko-art-agency/artists/masayuki-ogisu/IMG_9279.jpg",
+      "public_id": "koko-art-agency/artists/masayuki-ogisu/IMG_9279",
+      "width": 750,
+      "height": 996
+    },
+    {
+      "filename": "スクリーンショット 2022-11-09 10.19.31.PNG",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549760/koko-art-agency/artists/masayuki-ogisu/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202022-11-09%2010.19.31.png",
+      "public_id": "koko-art-agency/artists/masayuki-ogisu/スクリーンショット 2022-11-09 10.19.31",
+      "width": 506,
+      "height": 721
+    },
+    {
+      "filename": "名称未設定のアートワーク 3.JPG",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549763/koko-art-agency/artists/masayuki-ogisu/%E5%90%8D%E7%A7%B0%E6%9C%AA%E8%A8%AD%E5%AE%9A%E3%81%AE%E3%82%A2%E3%83%BC%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%203.jpg",
+      "public_id": "koko-art-agency/artists/masayuki-ogisu/名称未設定のアートワーク 3",
+      "width": 1200,
+      "height": 927
+    },
+    {
+      "filename": "名称未設定のアートワーク 4.JPG",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549765/koko-art-agency/artists/masayuki-ogisu/%E5%90%8D%E7%A7%B0%E6%9C%AA%E8%A8%AD%E5%AE%9A%E3%81%AE%E3%82%A2%E3%83%BC%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%204.jpg",
+      "public_id": "koko-art-agency/artists/masayuki-ogisu/名称未設定のアートワーク 4",
+      "width": 848,
+      "height": 1200
+    },
+    {
+      "filename": "名称未設定のアートワーク 6.JPG",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549767/koko-art-agency/artists/masayuki-ogisu/%E5%90%8D%E7%A7%B0%E6%9C%AA%E8%A8%AD%E5%AE%9A%E3%81%AE%E3%82%A2%E3%83%BC%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%206.jpg",
+      "public_id": "koko-art-agency/artists/masayuki-ogisu/名称未設定のアートワーク 6",
+      "width": 848,
+      "height": 1200
+    },
+    {
+      "filename": "名称未設定のアートワーク 7.JPG",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549769/koko-art-agency/artists/masayuki-ogisu/%E5%90%8D%E7%A7%B0%E6%9C%AA%E8%A8%AD%E5%AE%9A%E3%81%AE%E3%82%A2%E3%83%BC%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%207.jpg",
+      "public_id": "koko-art-agency/artists/masayuki-ogisu/名称未設定のアートワーク 7",
+      "width": 848,
+      "height": 1200
+    },
+    {
+      "filename": "名称未設定のアートワーク.JPG",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549773/koko-art-agency/artists/masayuki-ogisu/%E5%90%8D%E7%A7%B0%E6%9C%AA%E8%A8%AD%E5%AE%9A%E3%81%AE%E3%82%A2%E3%83%BC%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF.jpg",
+      "public_id": "koko-art-agency/artists/masayuki-ogisu/名称未設定のアートワーク",
+      "width": 848,
+      "height": 1200
+    }
+  ],
+  "miho-s": [
+    {
+      "filename": "MihoS_ColorsOfAutum.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549775/koko-art-agency/artists/miho-s/MihoS_ColorsOfAutum.jpg",
+      "public_id": "koko-art-agency/artists/miho-s/MihoS_ColorsOfAutum",
+      "width": 1000,
+      "height": 648
+    },
+    {
+      "filename": "MihoS_Earth.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549777/koko-art-agency/artists/miho-s/MihoS_Earth.jpg",
+      "public_id": "koko-art-agency/artists/miho-s/MihoS_Earth",
+      "width": 613,
+      "height": 1200
+    },
+    {
+      "filename": "MihoS_EcoCaratWall_Design01.png",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549779/koko-art-agency/artists/miho-s/MihoS_EcoCaratWall_Design01.png",
+      "public_id": "koko-art-agency/artists/miho-s/MihoS_EcoCaratWall_Design01",
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "filename": "MihoS_EcoCaratWall_Design02.png",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549782/koko-art-agency/artists/miho-s/MihoS_EcoCaratWall_Design02.png",
+      "public_id": "koko-art-agency/artists/miho-s/MihoS_EcoCaratWall_Design02",
+      "width": 1181,
+      "height": 1181
+    },
+    {
+      "filename": "MihoS_EcoCaratWall_Design03.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549784/koko-art-agency/artists/miho-s/MihoS_EcoCaratWall_Design03.jpg",
+      "public_id": "koko-art-agency/artists/miho-s/MihoS_EcoCaratWall_Design03",
+      "width": 1181,
+      "height": 1181
+    },
+    {
+      "filename": "MihoS_HapiHapi_Winter.png",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549786/koko-art-agency/artists/miho-s/MihoS_HapiHapi_Winter.png",
+      "public_id": "koko-art-agency/artists/miho-s/MihoS_HapiHapi_Winter",
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "filename": "MihoS_ILoveDTM.png",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549788/koko-art-agency/artists/miho-s/MihoS_ILoveDTM.png",
+      "public_id": "koko-art-agency/artists/miho-s/MihoS_ILoveDTM",
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "filename": "MihoS_ImCuterThanThatGirl.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549791/koko-art-agency/artists/miho-s/MihoS_ImCuterThanThatGirl.jpg",
+      "public_id": "koko-art-agency/artists/miho-s/MihoS_ImCuterThanThatGirl",
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "filename": "MihoS_IngressDarsanaPrime_Image.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549793/koko-art-agency/artists/miho-s/MihoS_IngressDarsanaPrime_Image.jpg",
+      "public_id": "koko-art-agency/artists/miho-s/MihoS_IngressDarsanaPrime_Image",
+      "width": 616,
+      "height": 1200
+    },
+    {
+      "filename": "MihoS_IngressRecursionPrime_Image.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549794/koko-art-agency/artists/miho-s/MihoS_IngressRecursionPrime_Image.jpg",
+      "public_id": "koko-art-agency/artists/miho-s/MihoS_IngressRecursionPrime_Image",
+      "width": 616,
+      "height": 1200
+    },
+    {
+      "filename": "MihoS_LSMB_CVket_poster.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549796/koko-art-agency/artists/miho-s/MihoS_LSMB_CVket_poster.jpg",
+      "public_id": "koko-art-agency/artists/miho-s/MihoS_LSMB_CVket_poster",
+      "width": 849,
+      "height": 1200
+    },
+    {
+      "filename": "MihoS_MissMissionDay_MAG18.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549797/koko-art-agency/artists/miho-s/MihoS_MissMissionDay_MAG18.jpg",
+      "public_id": "koko-art-agency/artists/miho-s/MihoS_MissMissionDay_MAG18",
+      "width": 852,
+      "height": 1200
+    },
+    {
+      "filename": "MihoS_MissMissionDay_Taipei.png",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549799/koko-art-agency/artists/miho-s/MihoS_MissMissionDay_Taipei.png",
+      "public_id": "koko-art-agency/artists/miho-s/MihoS_MissMissionDay_Taipei",
+      "width": 805,
+      "height": 1200
+    },
+    {
+      "filename": "MihoS_TwinkleStar.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549801/koko-art-agency/artists/miho-s/MihoS_TwinkleStar.jpg",
+      "public_id": "koko-art-agency/artists/miho-s/MihoS_TwinkleStar",
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "filename": "Miho_S.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549803/koko-art-agency/artists/miho-s/Miho_S.jpg",
+      "public_id": "koko-art-agency/artists/miho-s/Miho_S",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "filename": "Organic_Miho_S1.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549804/koko-art-agency/artists/miho-s/Organic_Miho_S1.jpg",
+      "public_id": "koko-art-agency/artists/miho-s/Organic_Miho_S1",
+      "width": 698,
+      "height": 495
+    },
+    {
+      "filename": "Organic_Miho_S2.png",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549806/koko-art-agency/artists/miho-s/Organic_Miho_S2.png",
+      "public_id": "koko-art-agency/artists/miho-s/Organic_Miho_S2",
+      "width": 428,
+      "height": 600
+    },
+    {
+      "filename": "Organic_Miho_S3.png",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549808/koko-art-agency/artists/miho-s/Organic_Miho_S3.png",
+      "public_id": "koko-art-agency/artists/miho-s/Organic_Miho_S3",
+      "width": 700,
+      "height": 489
+    },
+    {
+      "filename": "Vector_Miho_S5.png",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549810/koko-art-agency/artists/miho-s/Vector_Miho_S5.png",
+      "public_id": "koko-art-agency/artists/miho-s/Vector_Miho_S5",
+      "width": 700,
+      "height": 496
+    },
+    {
+      "filename": "Wreith_Of_Water.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549813/koko-art-agency/artists/miho-s/Wreith_Of_Water.jpg",
+      "public_id": "koko-art-agency/artists/miho-s/Wreith_Of_Water",
+      "width": 1200,
+      "height": 591
+    }
+  ],
+  "stina-persson": [
+    {
+      "filename": "10Chantecaille_Stinapersson.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549814/koko-art-agency/artists/stina-persson/10Chantecaille_Stinapersson.jpg",
+      "public_id": "koko-art-agency/artists/stina-persson/10Chantecaille_Stinapersson",
+      "width": 600,
+      "height": 541
+    },
+    {
+      "filename": "12negroni_stinapersson.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549816/koko-art-agency/artists/stina-persson/12negroni_stinapersson.jpg",
+      "public_id": "koko-art-agency/artists/stina-persson/12negroni_stinapersson",
+      "width": 481,
+      "height": 600
+    },
+    {
+      "filename": "13OCEAN_stinapersson.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549817/koko-art-agency/artists/stina-persson/13OCEAN_stinapersson.jpg",
+      "public_id": "koko-art-agency/artists/stina-persson/13OCEAN_stinapersson",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "filename": "14april_24.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549819/koko-art-agency/artists/stina-persson/14april_24.jpg",
+      "public_id": "koko-art-agency/artists/stina-persson/14april_24",
+      "width": 600,
+      "height": 598
+    },
+    {
+      "filename": "15dots.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549821/koko-art-agency/artists/stina-persson/15dots.jpg",
+      "public_id": "koko-art-agency/artists/stina-persson/15dots",
+      "width": 600,
+      "height": 701
+    },
+    {
+      "filename": "16LIPS_stinapersson.png",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549824/koko-art-agency/artists/stina-persson/16LIPS_stinapersson.png",
+      "public_id": "koko-art-agency/artists/stina-persson/16LIPS_stinapersson",
+      "width": 565,
+      "height": 600
+    },
+    {
+      "filename": "17VOGUE_GERMANY_Stinapersson.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549825/koko-art-agency/artists/stina-persson/17VOGUE_GERMANY_Stinapersson.jpg",
+      "public_id": "koko-art-agency/artists/stina-persson/17VOGUE_GERMANY_Stinapersson",
+      "width": 430,
+      "height": 600
+    },
+    {
+      "filename": "18FLoral_Stinapersson.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549826/koko-art-agency/artists/stina-persson/18FLoral_Stinapersson.jpg",
+      "public_id": "koko-art-agency/artists/stina-persson/18FLoral_Stinapersson",
+      "width": 460,
+      "height": 600
+    },
+    {
+      "filename": "19ROYAL_OPERA_stinapersson.gif",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549828/koko-art-agency/artists/stina-persson/19ROYAL_OPERA_stinapersson.gif",
+      "public_id": "koko-art-agency/artists/stina-persson/19ROYAL_OPERA_stinapersson",
+      "width": 400,
+      "height": 497
+    },
+    {
+      "filename": "1AOP_stinapersson.GIF",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549832/koko-art-agency/artists/stina-persson/1AOP_stinapersson.gif",
+      "public_id": "koko-art-agency/artists/stina-persson/1AOP_stinapersson",
+      "width": 886,
+      "height": 1104
+    },
+    {
+      "filename": "20desert_LANDSCAPE_05.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549836/koko-art-agency/artists/stina-persson/20desert_LANDSCAPE_05.jpg",
+      "public_id": "koko-art-agency/artists/stina-persson/20desert_LANDSCAPE_05",
+      "width": 600,
+      "height": 614
+    },
+    {
+      "filename": "2may.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549838/koko-art-agency/artists/stina-persson/2may.jpg",
+      "public_id": "koko-art-agency/artists/stina-persson/2may",
+      "width": 600,
+      "height": 935
+    },
+    {
+      "filename": "3STELLA_Stinapersson.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549840/koko-art-agency/artists/stina-persson/3STELLA_Stinapersson.jpg",
+      "public_id": "koko-art-agency/artists/stina-persson/3STELLA_Stinapersson",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "filename": "4NATURALHAIR_GREEN_STINAPERSSON copy 2.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549842/koko-art-agency/artists/stina-persson/4NATURALHAIR_GREEN_STINAPERSSON%20copy%202.jpg",
+      "public_id": "koko-art-agency/artists/stina-persson/4NATURALHAIR_GREEN_STINAPERSSON copy 2",
+      "width": 480,
+      "height": 600
+    },
+    {
+      "filename": "5DENIM_stinapersson.png",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549844/koko-art-agency/artists/stina-persson/5DENIM_stinapersson.png",
+      "public_id": "koko-art-agency/artists/stina-persson/5DENIM_stinapersson",
+      "width": 475,
+      "height": 600
+    },
+    {
+      "filename": "6BLUE_Stinapersson.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549845/koko-art-agency/artists/stina-persson/6BLUE_Stinapersson.jpg",
+      "public_id": "koko-art-agency/artists/stina-persson/6BLUE_Stinapersson",
+      "width": 447,
+      "height": 600
+    },
+    {
+      "filename": "7UNHCR_StinaPerssonjpg.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549847/koko-art-agency/artists/stina-persson/7UNHCR_StinaPerssonjpg.jpg",
+      "public_id": "koko-art-agency/artists/stina-persson/7UNHCR_StinaPerssonjpg",
+      "width": 469,
+      "height": 600
+    },
+    {
+      "filename": "8BALLY_stinapersson.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549848/koko-art-agency/artists/stina-persson/8BALLY_stinapersson.jpg",
+      "public_id": "koko-art-agency/artists/stina-persson/8BALLY_stinapersson",
+      "width": 600,
+      "height": 250
+    }
+  ],
+  "superdeux": [
+    {
+      "filename": "11 Shot 2021-05-20 at 9.50.19 AM.png",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549851/koko-art-agency/artists/superdeux/11%20Shot%202021-05-20%20at%209.50.19%20AM.png",
+      "public_id": "koko-art-agency/artists/superdeux/11 Shot 2021-05-20 at 9.50.19 AM",
+      "width": 1180,
+      "height": 1182
+    },
+    {
+      "filename": "12SUPERDEUX_New_KOKOArtAgency13.jpeg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549854/koko-art-agency/artists/superdeux/12SUPERDEUX_New_KOKOArtAgency13.jpg",
+      "public_id": "koko-art-agency/artists/superdeux/12SUPERDEUX_New_KOKOArtAgency13",
+      "width": 1200,
+      "height": 900
+    },
+    {
+      "filename": "13SUPERDEUX_New_KOKOArtAgency10.jpeg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549855/koko-art-agency/artists/superdeux/13SUPERDEUX_New_KOKOArtAgency10.jpg",
+      "public_id": "koko-art-agency/artists/superdeux/13SUPERDEUX_New_KOKOArtAgency10",
+      "width": 1200,
+      "height": 900
+    },
+    {
+      "filename": "14Screen Shot 2021-09-09 at 11.44.21 AM.png",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549857/koko-art-agency/artists/superdeux/14Screen%20Shot%202021-09-09%20at%2011.44.21%20AM.png",
+      "public_id": "koko-art-agency/artists/superdeux/14Screen Shot 2021-09-09 at 11.44.21 AM",
+      "width": 1180,
+      "height": 1182
+    },
+    {
+      "filename": "15Screen Shot 2021-09-09 at 11.44.28 AM.png",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549860/koko-art-agency/artists/superdeux/15Screen%20Shot%202021-09-09%20at%2011.44.28%20AM.png",
+      "public_id": "koko-art-agency/artists/superdeux/15Screen Shot 2021-09-09 at 11.44.28 AM",
+      "width": 1180,
+      "height": 1182
+    },
+    {
+      "filename": "16go_with_the_flow.PNG",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549862/koko-art-agency/artists/superdeux/16go_with_the_flow.png",
+      "public_id": "koko-art-agency/artists/superdeux/16go_with_the_flow",
+      "width": 720,
+      "height": 720
+    },
+    {
+      "filename": "17Screen Shot 2021-05-20 at 9.52.33 AM.png",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549864/koko-art-agency/artists/superdeux/17Screen%20Shot%202021-05-20%20at%209.52.33%20AM.png",
+      "public_id": "koko-art-agency/artists/superdeux/17Screen Shot 2021-05-20 at 9.52.33 AM",
+      "width": 1010,
+      "height": 1034
+    },
+    {
+      "filename": "18SUPERDEUX_New_KOKOArtAgency6.png",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549866/koko-art-agency/artists/superdeux/18SUPERDEUX_New_KOKOArtAgency6.png",
+      "public_id": "koko-art-agency/artists/superdeux/18SUPERDEUX_New_KOKOArtAgency6",
+      "width": 670,
+      "height": 726
+    },
+    {
+      "filename": "19SUPERDEUX_New_KOKOArtAgency4.png",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549868/koko-art-agency/artists/superdeux/19SUPERDEUX_New_KOKOArtAgency4.png",
+      "public_id": "koko-art-agency/artists/superdeux/19SUPERDEUX_New_KOKOArtAgency4",
+      "width": 1000,
+      "height": 937
+    },
+    {
+      "filename": "1SUPERDEUX_New_KOKOArtAgency23.png",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549869/koko-art-agency/artists/superdeux/1SUPERDEUX_New_KOKOArtAgency23.png",
+      "public_id": "koko-art-agency/artists/superdeux/1SUPERDEUX_New_KOKOArtAgency23",
+      "width": 847,
+      "height": 768
+    },
+    {
+      "filename": "20suspicious.png",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549871/koko-art-agency/artists/superdeux/20suspicious.png",
+      "public_id": "koko-art-agency/artists/superdeux/20suspicious",
+      "width": 1000,
+      "height": 997
+    },
+    {
+      "filename": "2SUPERDEUX_New_KOKOArtAgency27.png",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549874/koko-art-agency/artists/superdeux/2SUPERDEUX_New_KOKOArtAgency27.png",
+      "public_id": "koko-art-agency/artists/superdeux/2SUPERDEUX_New_KOKOArtAgency27",
+      "width": 900,
+      "height": 900
+    },
+    {
+      "filename": "3Screen Shot 2022-02-17 at 10.19.54 AM.png",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549877/koko-art-agency/artists/superdeux/3Screen%20Shot%202022-02-17%20at%2010.19.54%20AM.png",
+      "public_id": "koko-art-agency/artists/superdeux/3Screen Shot 2022-02-17 at 10.19.54 AM",
+      "width": 1130,
+      "height": 1132
+    },
+    {
+      "filename": "4SUperdeux_KOKOArtAgency22.png",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549880/koko-art-agency/artists/superdeux/4SUperdeux_KOKOArtAgency22.png",
+      "public_id": "koko-art-agency/artists/superdeux/4SUperdeux_KOKOArtAgency22",
+      "width": 900,
+      "height": 900
+    },
+    {
+      "filename": "5deux_k7.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549884/koko-art-agency/artists/superdeux/5deux_k7.jpg",
+      "public_id": "koko-art-agency/artists/superdeux/5deux_k7",
+      "width": 1000,
+      "height": 1200
+    },
+    {
+      "filename": "6SUPERDEUX_New_KOKOArtAgency2.png",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549887/koko-art-agency/artists/superdeux/6SUPERDEUX_New_KOKOArtAgency2.png",
+      "public_id": "koko-art-agency/artists/superdeux/6SUPERDEUX_New_KOKOArtAgency2",
+      "width": 900,
+      "height": 1164
+    },
+    {
+      "filename": "7SUPERDEUX_New_KOKOArtAgency3.png",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549889/koko-art-agency/artists/superdeux/7SUPERDEUX_New_KOKOArtAgency3.png",
+      "public_id": "koko-art-agency/artists/superdeux/7SUPERDEUX_New_KOKOArtAgency3",
+      "width": 900,
+      "height": 1164
+    },
+    {
+      "filename": "8rolitodeux-1.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549891/koko-art-agency/artists/superdeux/8rolitodeux-1.jpg",
+      "public_id": "koko-art-agency/artists/superdeux/8rolitodeux-1",
+      "width": 1151,
+      "height": 1200
+    },
+    {
+      "filename": "9Screen Shot 2021-05-20 at 9.49.43 AM.png",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549893/koko-art-agency/artists/superdeux/9Screen%20Shot%202021-05-20%20at%209.49.43%20AM.png",
+      "public_id": "koko-art-agency/artists/superdeux/9Screen Shot 2021-05-20 at 9.49.43 AM",
+      "width": 1180,
+      "height": 1182
+    }
+  ],
+  "tina-berning": [
+    {
+      "filename": "10IsleMcElroy_600px.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549895/koko-art-agency/artists/tina-berning/10IsleMcElroy_600px.jpg",
+      "public_id": "koko-art-agency/artists/tina-berning/10IsleMcElroy_600px",
+      "width": 398,
+      "height": 600
+    },
+    {
+      "filename": "11Day3.gif",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549898/koko-art-agency/artists/tina-berning/11Day3.gif",
+      "public_id": "koko-art-agency/artists/tina-berning/11Day3",
+      "width": 350,
+      "height": 550
+    },
+    {
+      "filename": "12page345_FINE_WEB.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549901/koko-art-agency/artists/tina-berning/12page345_FINE_WEB.jpg",
+      "public_id": "koko-art-agency/artists/tina-berning/12page345_FINE_WEB",
+      "width": 817,
+      "height": 1200
+    },
+    {
+      "filename": "13Screen Shot 2022-03-03 at 11.56.57 AM.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549902/koko-art-agency/artists/tina-berning/13Screen%20Shot%202022-03-03%20at%2011.56.57%20AM.jpg",
+      "public_id": "koko-art-agency/artists/tina-berning/13Screen Shot 2022-03-03 at 11.56.57 AM",
+      "width": 1192,
+      "height": 1194
+    },
+    {
+      "filename": "14Screenshot 2023-02-20 at 1.23.35 PM.png",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549905/koko-art-agency/artists/tina-berning/14Screenshot%202023-02-20%20at%201.23.35%20PM.png",
+      "public_id": "koko-art-agency/artists/tina-berning/14Screenshot 2023-02-20 at 1.23.35 PM",
+      "width": 944,
+      "height": 566
+    },
+    {
+      "filename": "15TinaBurning.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549907/koko-art-agency/artists/tina-berning/15TinaBurning.jpg",
+      "public_id": "koko-art-agency/artists/tina-berning/15TinaBurning",
+      "width": 1200,
+      "height": 857
+    },
+    {
+      "filename": "16Screenshot 2025-01-27 at 9.22.22 PM.png",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549909/koko-art-agency/artists/tina-berning/16Screenshot%202025-01-27%20at%209.22.22%E2%80%AFPM.png",
+      "public_id": "koko-art-agency/artists/tina-berning/16Screenshot 2025-01-27 at 9.22.22 PM",
+      "width": 1074,
+      "height": 728
+    },
+    {
+      "filename": "17SOPHIA_SMITH_TB_600px.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549911/koko-art-agency/artists/tina-berning/17SOPHIA_SMITH_TB_600px.jpg",
+      "public_id": "koko-art-agency/artists/tina-berning/17SOPHIA_SMITH_TB_600px",
+      "width": 582,
+      "height": 600
+    },
+    {
+      "filename": "18THOMAS_MANN_600px.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549913/koko-art-agency/artists/tina-berning/18THOMAS_MANN_600px.jpg",
+      "public_id": "koko-art-agency/artists/tina-berning/18THOMAS_MANN_600px",
+      "width": 536,
+      "height": 600
+    },
+    {
+      "filename": "19unspecified copy.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549914/koko-art-agency/artists/tina-berning/19unspecified%20copy.jpg",
+      "public_id": "koko-art-agency/artists/tina-berning/19unspecified copy",
+      "width": 1000,
+      "height": 1200
+    },
+    {
+      "filename": "1FLORENCE2.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549917/koko-art-agency/artists/tina-berning/1FLORENCE2.jpg",
+      "public_id": "koko-art-agency/artists/tina-berning/1FLORENCE2",
+      "width": 896,
+      "height": 1200
+    },
+    {
+      "filename": "20TARPE.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549918/koko-art-agency/artists/tina-berning/20TARPE.jpg",
+      "public_id": "koko-art-agency/artists/tina-berning/20TARPE",
+      "width": 899,
+      "height": 1200
+    },
+    {
+      "filename": "2CATHAY_2_K3.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549921/koko-art-agency/artists/tina-berning/2CATHAY_2_K3.jpg",
+      "public_id": "koko-art-agency/artists/tina-berning/2CATHAY_2_K3",
+      "width": 899,
+      "height": 1200
+    },
+    {
+      "filename": "3RUSTY_3.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549922/koko-art-agency/artists/tina-berning/3RUSTY_3.jpg",
+      "public_id": "koko-art-agency/artists/tina-berning/3RUSTY_3",
+      "width": 899,
+      "height": 1200
+    },
+    {
+      "filename": "4hatshepsut Kopie.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549924/koko-art-agency/artists/tina-berning/4hatshepsut%20Kopie.jpg",
+      "public_id": "koko-art-agency/artists/tina-berning/4hatshepsut Kopie",
+      "width": 855,
+      "height": 1200
+    },
+    {
+      "filename": "5MARIA_TOORPAKAI_1.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549925/koko-art-agency/artists/tina-berning/5MARIA_TOORPAKAI_1.jpg",
+      "public_id": "koko-art-agency/artists/tina-berning/5MARIA_TOORPAKAI_1",
+      "width": 899,
+      "height": 1200
+    },
+    {
+      "filename": "6JEANNE_BARET.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549927/koko-art-agency/artists/tina-berning/6JEANNE_BARET.jpg",
+      "public_id": "koko-art-agency/artists/tina-berning/6JEANNE_BARET",
+      "width": 876,
+      "height": 1200
+    },
+    {
+      "filename": "7NewlyCroppedHighRes_JEKYLL_COVER_SEPERATED 2 copy.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549928/koko-art-agency/artists/tina-berning/7NewlyCroppedHighRes_JEKYLL_COVER_SEPERATED%202%20copy.jpg",
+      "public_id": "koko-art-agency/artists/tina-berning/7NewlyCroppedHighRes_JEKYLL_COVER_SEPERATED 2 copy",
+      "width": 933,
+      "height": 1200
+    },
+    {
+      "filename": "8MERET_PAINT.gif",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549929/koko-art-agency/artists/tina-berning/8MERET_PAINT.gif",
+      "public_id": "koko-art-agency/artists/tina-berning/8MERET_PAINT",
+      "width": 1200,
+      "height": 480
+    },
+    {
+      "filename": "9PILI_1.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549932/koko-art-agency/artists/tina-berning/9PILI_1.jpg",
+      "public_id": "koko-art-agency/artists/tina-berning/9PILI_1",
+      "width": 888,
+      "height": 1200
+    }
+  ],
+  "tomoto": [
+    {
+      "filename": "1-Bird and Flowers.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549934/koko-art-agency/artists/tomoto/1-Bird%20and%20Flowers.jpg",
+      "public_id": "koko-art-agency/artists/tomoto/1-Bird and Flowers",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "filename": "10-Honda_Calendar_11.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549935/koko-art-agency/artists/tomoto/10-Honda_Calendar_11.jpg",
+      "public_id": "koko-art-agency/artists/tomoto/10-Honda_Calendar_11",
+      "width": 1001,
+      "height": 1200
+    },
+    {
+      "filename": "11-Honda_Calendar_05.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549937/koko-art-agency/artists/tomoto/11-Honda_Calendar_05.jpg",
+      "public_id": "koko-art-agency/artists/tomoto/11-Honda_Calendar_05",
+      "width": 1001,
+      "height": 1200
+    },
+    {
+      "filename": "12-Kiehl's.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549938/koko-art-agency/artists/tomoto/12-Kiehl%27s.jpg",
+      "public_id": "koko-art-agency/artists/tomoto/12-Kiehl's",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "filename": "13-Macaron.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549939/koko-art-agency/artists/tomoto/13-Macaron.jpg",
+      "public_id": "koko-art-agency/artists/tomoto/13-Macaron",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "filename": "14-tomoto_Donkey.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549941/koko-art-agency/artists/tomoto/14-tomoto_Donkey.jpg",
+      "public_id": "koko-art-agency/artists/tomoto/14-tomoto_Donkey",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "filename": "15-Watermelon.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549942/koko-art-agency/artists/tomoto/15-Watermelon.jpg",
+      "public_id": "koko-art-agency/artists/tomoto/15-Watermelon",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "filename": "16-Mudpuppy Puzzle.png",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549944/koko-art-agency/artists/tomoto/16-Mudpuppy%20Puzzle.png",
+      "public_id": "koko-art-agency/artists/tomoto/16-Mudpuppy Puzzle",
+      "width": 700,
+      "height": 545
+    },
+    {
+      "filename": "17-horoscope_all_tomoto.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549946/koko-art-agency/artists/tomoto/17-horoscope_all_tomoto.jpg",
+      "public_id": "koko-art-agency/artists/tomoto/17-horoscope_all_tomoto",
+      "width": 1016,
+      "height": 1200
+    },
+    {
+      "filename": "18-TOMOTO.png",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549947/koko-art-agency/artists/tomoto/18-TOMOTO.png",
+      "public_id": "koko-art-agency/artists/tomoto/18-TOMOTO",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "filename": "19-WB_PrintBook_tomoto_4.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549949/koko-art-agency/artists/tomoto/19-WB_PrintBook_tomoto_4.jpg",
+      "public_id": "koko-art-agency/artists/tomoto/19-WB_PrintBook_tomoto_4",
+      "width": 1029,
+      "height": 1200
+    },
+    {
+      "filename": "20-Floral Heart.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549950/koko-art-agency/artists/tomoto/20-Floral%20Heart.jpg",
+      "public_id": "koko-art-agency/artists/tomoto/20-Floral Heart",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "filename": "2_WB_DXE_2025_tomoto_1.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549952/koko-art-agency/artists/tomoto/2_WB_DXE_2025_tomoto_1.jpg",
+      "public_id": "koko-art-agency/artists/tomoto/2_WB_DXE_2025_tomoto_1",
+      "width": 1200,
+      "height": 771
+    },
+    {
+      "filename": "3-Berry with cupcakes.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549954/koko-art-agency/artists/tomoto/3-Berry%20with%20cupcakes.jpg",
+      "public_id": "koko-art-agency/artists/tomoto/3-Berry with cupcakes",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "filename": "4-Dango.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549955/koko-art-agency/artists/tomoto/4-Dango.jpg",
+      "public_id": "koko-art-agency/artists/tomoto/4-Dango",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "filename": "5-Hello March.png",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549956/koko-art-agency/artists/tomoto/5-Hello%20March.png",
+      "public_id": "koko-art-agency/artists/tomoto/5-Hello March",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "filename": "6-Sheep with Flowers.png",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549958/koko-art-agency/artists/tomoto/6-Sheep%20with%20Flowers.png",
+      "public_id": "koko-art-agency/artists/tomoto/6-Sheep with Flowers",
+      "width": 700,
+      "height": 559
+    },
+    {
+      "filename": "7-Halloween Cat.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549960/koko-art-agency/artists/tomoto/7-Halloween%20Cat.jpg",
+      "public_id": "koko-art-agency/artists/tomoto/7-Halloween Cat",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "filename": "8-Halloween Friends.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549961/koko-art-agency/artists/tomoto/8-Halloween%20Friends.jpg",
+      "public_id": "koko-art-agency/artists/tomoto/8-Halloween Friends",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "filename": "9-Screenshot 2025-08-12 at 4.27.09 PM.png",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549963/koko-art-agency/artists/tomoto/9-Screenshot%202025-08-12%20at%204.27.09%E2%80%AFPM.png",
+      "public_id": "koko-art-agency/artists/tomoto/9-Screenshot 2025-08-12 at 4.27.09 PM",
+      "width": 446,
+      "height": 534
+    }
+  ]
 }
