@@ -144,11 +144,12 @@ const ARTIST_IMAGE_DATA: Record<string, {
   },
   "marcus-oakley": {
     images: [
+      "1_ANYWHERE_BOOKCLUB.jpg", "2_DJUCE_WINE.jpg", "3_LAZYOAF_2.jpg", "4_GARRO_TEXTILE2.jpg",
       "Sealstrand_marcus oakleyjpg.jpg", "Sheep_marcus oakley.jpg", "The Wynd_marcus oakleyjpg.jpg", 
       "bedheadss_marcus_oakley_jpg.jpg", "birds_marcus oakleyjpg.jpg", "boat trip_marcus oakleyjpg.jpg", 
       "brick car_marcus_oakley_.jpg", "busker dog_marcus oakleyjpg.jpg", "caterpillar._marcus_oakley_jpg.jpg", 
-      "cats_marcus_oakley_.jpg", "cup&spoon_marcus oakley.jpg", "elephant_marcus oakley.jpg", 
-      "friends_marcus oakley.jpg", "ghost_marcus oakley.jpg", "girl&cat_OAKLEY.jpg", 
+      "cats_marcus_oakley_.jpg", "cup-and-spoon_marcus oakley.jpg", "elephant_marcus oakley.jpg", 
+      "friends_marcus oakley.jpg", "ghost_marcus oakley.jpg", "girl-and-cat_OAKLEY.jpg", 
       "handplant_marcus oakley.jpg", "heads_marcus oakley.jpg", "livingroom_marcus oakley.jpg", 
       "pot plant_marcus oakley.jpg", "standing_marcus oakleystanding.jpg"
     ],

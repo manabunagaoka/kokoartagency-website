@@ -27,6 +27,7 @@ export default function FeaturedArtistSpotlight() {
                   alt={item.alt}
                   fill
                   className="object-cover group-hover:scale-105 transition-transform duration-300"
+                  unoptimized
                 />
               ) : (
                 <video

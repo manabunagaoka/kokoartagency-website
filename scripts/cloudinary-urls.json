@@ -1684,6 +1684,34 @@
   ],
   "marcus-oakley": [
     {
+      "filename": "1_ANYWHERE_BOOKCLUB.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1771850434/koko-art-agency/artists/marcus-oakley/1_ANYWHERE_BOOKCLUB.jpg",
+      "public_id": "koko-art-agency/artists/marcus-oakley/1_ANYWHERE_BOOKCLUB",
+      "width": 771,
+      "height": 1200
+    },
+    {
+      "filename": "2_DJUCE_WINE.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1771850436/koko-art-agency/artists/marcus-oakley/2_DJUCE_WINE.jpg",
+      "public_id": "koko-art-agency/artists/marcus-oakley/2_DJUCE_WINE",
+      "width": 771,
+      "height": 1200
+    },
+    {
+      "filename": "3_LAZYOAF_2.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1771850438/koko-art-agency/artists/marcus-oakley/3_LAZYOAF_2.jpg",
+      "public_id": "koko-art-agency/artists/marcus-oakley/3_LAZYOAF_2",
+      "width": 771,
+      "height": 1200
+    },
+    {
+      "filename": "4_GARRO_TEXTILE2.jpg",
+      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1771850439/koko-art-agency/artists/marcus-oakley/4_GARRO_TEXTILE2.jpg",
+      "public_id": "koko-art-agency/artists/marcus-oakley/4_GARRO_TEXTILE2",
+      "width": 771,
+      "height": 1200
+    },
+    {
       "filename": "Sealstrand_marcus oakleyjpg.jpg",
       "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549666/koko-art-agency/artists/marcus-oakley/Sealstrand_marcus%20oakleyjpg.jpg",
       "public_id": "koko-art-agency/artists/marcus-oakley/Sealstrand_marcus oakleyjpg",
@@ -1792,34 +1820,6 @@
       "filename": "handplant_marcus oakley.jpg",
       "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549689/koko-art-agency/artists/marcus-oakley/handplant_marcus%20oakley.jpg",
       "public_id": "koko-art-agency/artists/marcus-oakley/handplant_marcus oakley",
-      "width": 771,
-      "height": 1200
-    },
-    {
-      "filename": "heads_marcus oakley.jpg",
-      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549690/koko-art-agency/artists/marcus-oakley/heads_marcus%20oakley.jpg",
-      "public_id": "koko-art-agency/artists/marcus-oakley/heads_marcus oakley",
-      "width": 771,
-      "height": 1200
-    },
-    {
-      "filename": "livingroom_marcus oakley.jpg",
-      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549692/koko-art-agency/artists/marcus-oakley/livingroom_marcus%20oakley.jpg",
-      "public_id": "koko-art-agency/artists/marcus-oakley/livingroom_marcus oakley",
-      "width": 771,
-      "height": 1200
-    },
-    {
-      "filename": "pot plant_marcus oakley.jpg",
-      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549693/koko-art-agency/artists/marcus-oakley/pot%20plant_marcus%20oakley.jpg",
-      "public_id": "koko-art-agency/artists/marcus-oakley/pot plant_marcus oakley",
-      "width": 771,
-      "height": 1200
-    },
-    {
-      "filename": "standing_marcus oakleystanding.jpg",
-      "cloudinary_url": "https://res.cloudinary.com/djp2leb00/image/upload/v1770549695/koko-art-agency/artists/marcus-oakley/standing_marcus%20oakleystanding.jpg",
-      "public_id": "koko-art-agency/artists/marcus-oakley/standing_marcus oakleystanding",
       "width": 771,
       "height": 1200
     }

@@ -86,12 +86,12 @@ export default function ArtworkGallery({ artistSlug }: ArtworkGalleryProps) {
 
   return (
     <>
-      {/* Gallery Grid - Masonry Layout */}
-      <div className="columns-1 md:columns-2 lg:columns-3 xl:columns-4 gap-6 space-y-6">
+      {/* Gallery Grid - Now using CSS Grid for horizontal layout */}
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
         {mediaItems.map((item, index) => (
           <div
             key={item.id}
-            className="cursor-pointer group break-inside-avoid mb-6"
+            className="cursor-pointer group"
             onClick={() => openLightbox(index)}
           >
             <div className="relative bg-gray-100 rounded-lg overflow-hidden">
@@ -102,6 +102,7 @@ export default function ArtworkGallery({ artistSlug }: ArtworkGalleryProps) {
                 height={400}
                 className="w-full h-auto group-hover:scale-105 transition-transform duration-300"
                 sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, (max-width: 1280px) 33vw, 25vw"
+                unoptimized
               />
               {item.type === 'video' && (
                 <div className="absolute inset-0 flex items-center justify-center bg-black/20 group-hover:bg-black/30 transition-colors">

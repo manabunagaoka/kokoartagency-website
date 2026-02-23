@@ -147,6 +147,7 @@ const ARTIST_IMAGE_DATA: Record<string, {
   },
   "marcus-oakley": {
     images: [
+      "1_ANYWHERE_BOOKCLUB.jpg", "2_DJUCE_WINE.jpg", "3_LAZYOAF_2.jpg", "4_GARRO_TEXTILE2.jpg",
       "Sealstrand_marcus oakleyjpg.jpg", "Sheep_marcus oakley.jpg", "The Wynd_marcus oakleyjpg.jpg", 
       "bedheadss_marcus_oakley_jpg.jpg", "birds_marcus oakleyjpg.jpg", "boat trip_marcus oakleyjpg.jpg", 
       "brick car_marcus_oakley_.jpg", "busker dog_marcus oakleyjpg.jpg", "caterpillar._marcus_oakley_jpg.jpg", 
@@ -247,6 +248,33 @@ const ARTIST_IMAGE_DATA: Record<string, {
   }
 };
 
+// Helper function to get artist folder name for local paths
+function getArtistFolderName(slug: string): string {
+  const folderMapping: Record<string, string> = {
+    'anna-hrachovec': 'AnnaHrachovec',
+    'chico-hayasaki': 'ChicoHayasaki',
+    'chris-long': 'ChrisLong',
+    'dominique-corbasson': 'DominiqueCorbasson',
+    'eveline-tarunadjaja': 'EvelineTarunadjaja',
+    'francois-avril': 'FrançoisAvril',
+    'gisela-goppel': 'GiselaGoppel',
+    'jeffrey-fulvimari': 'JeffreyFulvimari',
+    'kana-kobayashi': 'KanaKobayashi',
+    'kenzo-minami': 'KenzoMinami',
+    'lisa-grue': 'LisaGrue',
+    'lulu': 'LULU*',
+    'marcus-oakley': 'MarcusOakley',
+    'masaki-ryo': 'MasakiRyo',
+    'masayuki-ogisu': 'MasayukiOgisu',
+    'miho-s': 'Miho_S',
+    'stina-persson': 'StinaPersson',
+    'superdeux': 'Superdeux',
+    'tina-berning': 'TinaBerning',
+    'tomoto': 'TOMOTO'
+  };
+  return folderMapping[slug] || slug;
+}
+
 // Helper function to generate Cloudinary URL from filename
 function generateCloudinaryUrl(artistSlug: string, filename: string): string {
   // Remove file extension for Cloudinary public_id
@@ -273,9 +301,16 @@ export async function GET(
     if (!artistData) {
       return NextResponse.json({ error: 'Artist not found' }, { status: 404 });
     }
+    
+    // Use local paths in development, Cloudinary in production
+    const isDevelopment = process.env.NODE_ENV === 'development';
+    const folderName = getArtistFolderName(slug);
+    
     const images = artistData.images.map((filename, idx) => ({
       id: `${slug}-${idx + 1}`,
-      url: generateCloudinaryUrl(slug, filename),
+      url: isDevelopment 
+        ? `/images/artists/${folderName}/${filename}`
+        : generateCloudinaryUrl(slug, filename),
       filename,
       title: filename.split('.')[0],
     }));
