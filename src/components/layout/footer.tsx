@@ -63,8 +63,8 @@ export default function Footer() {
         </div>
 
         <div className="mt-8 pt-8 border-t border-gray-200">
-          <div className="text-center text-sm text-gray-500 space-y-1">
-            <p>©2025 KOKO Art Agency, Inc.</p>
+            <div className="text-center text-sm text-gray-500 space-y-1">
+            <p>©2026 KOKO Art Agency, Inc.</p>
             <p>All rights of images, videos and text on this site are reserved by the respective artists and KOKO Art Agency, Inc.</p>
           </div>
         </div>
