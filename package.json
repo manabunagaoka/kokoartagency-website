@@ -6,7 +6,9 @@
     "dev": "next dev --turbopack",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "sync-images": "node scripts/sync-images.js",
+    "sync-images:dry": "node scripts/sync-images.js --dry"
   },
   "dependencies": {
     "autoprefixer": "^10.4.21",
@@ -29,6 +31,7 @@
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "^15.4.8",
+    "sharp": "^0.34.4",
     "typescript": "^5"
   }
 }

@@ -160,11 +160,26 @@ const ARTIST_IMAGE_DATA: Record<string, {
   },
   "masaki-ryo": {
     images: [
-      "0-1Bouquet_1 .png", "0-2Bouquet_2.png", "1b-caspari-2-1.jpg", "2dog-mr-16.png", 
-      "3dog-mr-18.png", "4_8-DI-MR-202212.jpeg", "5Cat&interior.png", "6-1Cat&DressingTable.png", 
-      "6-2a-valentine-7.jpg", "7ShoesShop.png", "8-1Spring.png", "8-2Greenhouse.png", 
-      "9JapanesePark.png", "10Christmas-5.jpg", "11-1a-dogs-16.jpg", "11-2cat-mr-3.png", 
-      "12a-acce-1.jpg", "13a-acce-2.jpg", "14a-acce-10.jpg", "15Mansion.png"
+      "0-1Bouquet_1.png",
+      "0-2Bouquet_2.png",
+      "1b-caspari-2-1.jpg",
+      "2dog-mr-16.png",
+      "3dog-mr-18.png",
+      "4_8-DI-MR-202212.jpeg",
+      "5Cat-and-interior.png",
+      "6-1Cat-and-DressingTable.png",
+      "6-2a-valentine-7.jpg",
+      "7ShoesShop.png",
+      "8-1Spring.png",
+      "8-2Greenhouse.png",
+      "9JapanesePark.png",
+      "10Christmas-5.jpg",
+      "11-1a-dogs-16.jpg",
+      "11-2cat-mr-3.png",
+      "12a-acce-1.jpg",
+      "13a-acce-2.jpg",
+      "14a-acce-10.jpg",
+      "15Mansion.png"
     ],
     videos: []
   },
