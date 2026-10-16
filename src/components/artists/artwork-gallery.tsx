@@ -1,6 +1,6 @@
 'use client';
 
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import Image from 'next/image';
 import { X, ChevronLeft, ChevronRight, Play, Loader2 } from 'lucide-react';
 import { useArtistImages } from '@/hooks/useArtistImages';
@@ -18,10 +18,28 @@ type MediaItem = {
   alt?: string;
 };
 
+// Column count per Tailwind breakpoint (md 768, lg 1024, xl 1280)
+function useColumnCount() {
+  const [count, setCount] = useState(1);
+
+  useEffect(() => {
+    const update = () => {
+      const w = window.innerWidth;
+      setCount(w >= 1280 ? 4 : w >= 1024 ? 3 : w >= 768 ? 2 : 1);
+    };
+    update();
+    window.addEventListener('resize', update);
+    return () => window.removeEventListener('resize', update);
+  }, []);
+
+  return count;
+}
+
 export default function ArtworkGallery({ artistSlug }: ArtworkGalleryProps) {
   const [selectedIndex, setSelectedIndex] = useState<number | null>(null);
   const { images, videos, loading, error } = useArtistImages(artistSlug);
-  
+  const columnCount = useColumnCount();
+
   // Combine images and videos into a single array
   const mediaItems: MediaItem[] = [
     ...images.map((img, index) => ({ 
@@ -86,9 +104,12 @@ export default function ArtworkGallery({ artistSlug }: ArtworkGalleryProps) {
 
   return (
     <>
-      {/* Gallery Grid - Now using CSS Grid for horizontal layout */}
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
-        {mediaItems.map((item, index) => (
+      {/* Masonry gallery: items dealt left-to-right into columns so reading order
+          stays 1, 2, 3... across the top while each column stacks without gaps */}
+      <div className="flex gap-6 items-start">
+        {Array.from({ length: columnCount }, (_, col) => (
+          <div key={col} className="flex-1 min-w-0 flex flex-col gap-6">
+            {mediaItems.map((item, index) => index % columnCount !== col ? null : (
           <div
             key={item.id}
             className="cursor-pointer group"
@@ -112,6 +133,8 @@ export default function ArtworkGallery({ artistSlug }: ArtworkGalleryProps) {
                 </div>
               )}
             </div>
+          </div>
+            ))}
           </div>
         ))}
       </div>
